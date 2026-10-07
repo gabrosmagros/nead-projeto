@@ -384,18 +384,7 @@ KEYWORDS: collaborative learning; teacher training; educational technology; digi
 
 ---
 
-### 35. Competencias digitales docentes en la mejora de la práctica educativa
-- **Autores:** Marcia Verónica Ochoa Sinchi, Saul Severino Socola, Dalia Fernanda Caicedo Paz, Dayra Teolinda Abad Sagal, Omar Vinicio Cárdenas Billazhiñay
-- **Ano:** 2026 | **Veículo:** Prisma Journal
-- **DOI:** 10.63803/prisma.v2n2.33 | **Link:** [https://doi.org/10.63803/prisma.v2n2.33](https://doi.org/10.63803/prisma.v2n2.33)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> In education, continuous innovation is indispensable for teachers, who serve as classroom guides and must possess social-emotional, pedagogical, and digital competencies. This is particularly crucial given today's technological advancements, where the majority of the educational community has access to cell phones, computers, smart watches, or other electronic devices. This reality presents a challenge for educators, who must innovate their methodologies and strategies to adapt and leverage the technological resources available to students. Consequently, a critical area for improvement is identified, as some teachers resist change and attempt to ban technological devices in educational institutions. From this perspective, this study aims to enhance teachers' digital competencies through microlearning to improve educational practice. Using a qualitative approach with flexible research methods such as interviews, participant observation, and digital focus groups, the study was conducted with eight teachers from the Santiago de Méndez canton. The findings led to the conclusion that the theoretical and methodological foundations support the contributions of microlearning when implemented through learning capsules in short, concise modules. This approach successfully enhanced the teachers' digital competencies; furthermore, in the satisfaction survey, participants described microlearning as an excellent strategy for dynamic and autonomous learning regarding responsibility, planning, execution, and evaluation of classes using technological resources.
-
----
-
-### 36. DESENVOLVIMENTO DE COMPETÊNCIAS DIGITAIS DOCENTES: UM RELATO DE EXPERIÊNCIA SOBRE FORMAÇÃO ONLINE COLABORATIVA
+### 35. DESENVOLVIMENTO DE COMPETÊNCIAS DIGITAIS DOCENTES: UM RELATO DE EXPERIÊNCIA SOBRE FORMAÇÃO ONLINE COLABORATIVA
 - **Autores:** Andréia de Assis Ferreira
 - **Ano:** 2025 | **Veículo:** Revista Ibero-Americana de Humanidades, Ciências e Educação
 - **DOI:** 10.51891/rease.v11i3.18388 | **Link:** [https://doi.org/10.51891/rease.v11i3.18388](https://doi.org/10.51891/rease.v11i3.18388)
@@ -403,6 +392,17 @@ KEYWORDS: collaborative learning; teacher training; educational technology; digi
 
 > **Resumo / Abstract:**
 > Este estudo teve como objetivo analisar o impacto da formação colaborativa mediada por tecnologia no desenvolvimento de competências digitais docentes. Para isso, foi desenvolvido um ambiente formativo online baseado na pedagogia ativa e construtivo-colaborativa, utilizando o Moodle da UFSCar. O curso, com carga horária de 90 horas, combinou encontros síncronos e atividades assíncronas, sendo gratuito e acessível a professores e licenciandos da cidade de São Carlos e região. A metodologia adotada buscou proporcionar uma experiência imersiva na mediação das Tecnologias Digitais (TD), enfatizando a aprendizagem colaborativa e a apropriação crítica dos recursos tecnológicos. Os resultados indicaram que a formação colaborativa não apenas ampliou as competências digitais dos participantes, mas também impulsionou mudanças significativas em suas práticas pedagógicas. Em um contexto em que as redes públicas de ensino investem em infraestrutura tecnológica, a qualificação docente torna-se essencial para uma aplicação efetiva das TD na educação. Conclui-se que a formação continuada baseada na colaboração e experimentação prática fortalece a autonomia dos professores e favorece a inovação pedagógica. O estudo contribui para a construção de uma cultura docente mais alinhada às demandas da sociedade contemporânea, promovendo uma abordagem crítica e estratégica no uso da tecnologia educacional.
+
+---
+
+### 36. Competencias digitales docentes en la mejora de la práctica educativa
+- **Autores:** Marcia Verónica Ochoa Sinchi, Saul Severino Socola, Dalia Fernanda Caicedo Paz, Dayra Teolinda Abad Sagal, Omar Vinicio Cárdenas Billazhiñay
+- **Ano:** 2026 | **Veículo:** Prisma Journal
+- **DOI:** 10.63803/prisma.v2n2.33 | **Link:** [https://doi.org/10.63803/prisma.v2n2.33](https://doi.org/10.63803/prisma.v2n2.33)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> In education, continuous innovation is indispensable for teachers, who serve as classroom guides and must possess social-emotional, pedagogical, and digital competencies. This is particularly crucial given today's technological advancements, where the majority of the educational community has access to cell phones, computers, smart watches, or other electronic devices. This reality presents a challenge for educators, who must innovate their methodologies and strategies to adapt and leverage the technological resources available to students. Consequently, a critical area for improvement is identified, as some teachers resist change and attempt to ban technological devices in educational institutions. From this perspective, this study aims to enhance teachers' digital competencies through microlearning to improve educational practice. Using a qualitative approach with flexible research methods such as interviews, participant observation, and digital focus groups, the study was conducted with eight teachers from the Santiago de Méndez canton. The findings led to the conclusion that the theoretical and methodological foundations support the contributions of microlearning when implemented through learning capsules in short, concise modules. This approach successfully enhanced the teachers' digital competencies; furthermore, in the satisfaction survey, participants described microlearning as an excellent strategy for dynamic and autonomous learning regarding responsibility, planning, execution, and evaluation of classes using technological resources.
 
 ---
 
@@ -604,14 +604,14 @@ KEYWORDS: collaborative learning; teacher training; educational technology; digi
 
 ---
 
-### 55. An exploration of faculty transition to online teaching
-- **Autores:** Julie E. Golden
-- **Ano:** N/A | **Veículo:** N/A
-- **DOI:** 10.17760/d20207762 | **Link:** [https://doi.org/10.17760/d20207762](https://doi.org/10.17760/d20207762)
+### 55. Preparing and Applying for a Teaching-Focused Faculty Position
+- **Autores:** Geraldine L. Palmer
+- **Ano:** 2017 | **Veículo:** Oxford Scholarship Online
+- **DOI:** 10.1093/acprof:oso/9780190457938.003.0018 | **Link:** [https://doi.org/10.1093/acprof:oso/9780190457938.003.0018](https://doi.org/10.1093/acprof:oso/9780190457938.003.0018)
 - **Base Indexadora:** Crossref
 
 > **Resumo / Abstract:**
-> Resumo não disponível via Crossref.
+> <p>With a dose of humor, the author of this chapter chronicles her journey as she searched for a full-time faculty position at local and national colleges and universities after receiving her PhD in community psychology. The search provided excellent first-hand experience that the author shares with readers and includes information about the process, highlighting concrete tools that are needed to be successful. She covers the importance of creating an effective curriculum vitae, teaching statement, and cover letter to land your first interview; how to be more tech savvy, mastering interviews via video conferencing software, such as Skype and Google Hang-Out; and why it is essential to get input on the highly important <italic>job talk</italic> from prospective academic colleagues. This chapter delivers a sense of the climate and process of entering the higher education market, while leaving the reader with hope for securing that sought-after faculty position.</p>
 
 ---
 
@@ -769,18 +769,7 @@ KEYWORDS: collaborative learning; teacher training; educational technology; digi
 
 ---
 
-### 70. The Use of Learning Media with MOODLE Approach to Improve the Quality of Education: A Literature Study
-- **Autores:** Andika Sari, Prof Baedhowi, Dyah Indrawati
-- **Ano:** 2017 | **Veículo:** Proceedings of the International Conference on Teacher Training and Education 2017 (ICTTE 2017)
-- **DOI:** 10.2991/ictte-17.2017.33 | **Link:** [https://doi.org/10.2991/ictte-17.2017.33](https://doi.org/10.2991/ictte-17.2017.33)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> Resumo não disponível via Crossref.
-
----
-
-### 71. An investigation into Moodle quizzes as assessment practices in an online LSP teacher professional development course
+### 70. An investigation into Moodle quizzes as assessment practices in an online LSP teacher professional development course
 - **Autores:** Yasemin Kirkgöz
 - **Ano:** 2025 | **Veículo:** Glottodidactica
 - **DOI:** 10.14746/gl.2025.52.1.4 | **Link:** [https://doi.org/10.14746/gl.2025.52.1.4](https://doi.org/10.14746/gl.2025.52.1.4)
@@ -788,6 +777,17 @@ KEYWORDS: collaborative learning; teacher training; educational technology; digi
 
 > **Resumo / Abstract:**
 > Although quizzes have become widely used for assessment purposes in online courses, the specific types of questions employed in quizzes have received less scholarly attention. To address this gap, this study investigates the question types used in quizzes within an online LSP teacher professional development course (LSP-TEOC.Pro) based on the Moodle platform, the rationale behind the question types and the test takers’ attitudes towards quizzes. The study employed a descriptive research design, incorporating both quantitative and qualitative data. Initially, a descriptive statistical analysis was conducted to identify the question types used in the online LSP-TEOC.Pro course, and the rationale for each question type. Then, interviews were conducted with a group of Turkish native-speaking test takers who voluntarily completed at least four modules during the trial phase of the course (IO6). Findings revealed that a variety of question types was used to evaluate the test takers’ knowledge at both receptive and productive levels. Content analysis of the interview data indicated that test takers found the assessment system used in the online course highly useful for self-evaluating their knowledge of each respective module. The results of this study offer valuable insights for online course designers in designing quizzes for summative assessment purposes.
+
+---
+
+### 71. The Use of Learning Media with MOODLE Approach to Improve the Quality of Education: A Literature Study
+- **Autores:** Andika Sari, Prof Baedhowi, Dyah Indrawati
+- **Ano:** 2017 | **Veículo:** Proceedings of the International Conference on Teacher Training and Education 2017 (ICTTE 2017)
+- **DOI:** 10.2991/ictte-17.2017.33 | **Link:** [https://doi.org/10.2991/ictte-17.2017.33](https://doi.org/10.2991/ictte-17.2017.33)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> Resumo não disponível via Crossref.
 
 ---
 
