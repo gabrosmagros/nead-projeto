@@ -1,6 +1,6 @@
 # Levantamento Bibliográfico Exaustivo: Formação Docente em EaD e Moodle
 **Projeto:** Pesquisa NEaD / Formação Docente
-**Total de Obras Mapeadas:** 251
+**Total de Obras Mapeadas:** 253
 **Data da Coleta:** Octuber 2026
 
 ---
@@ -178,20 +178,7 @@ Palavras-chave: Educação a distância. Formação omnilateral. Educação prof
 
 ---
 
-### 14. AS POLÍTICAS PÚBLICAS LINGUÍSTICAS NA PRODUÇÃO DE RECURSOS DIDÁTICOS BILÍNGUES E O TRABALHO DA PEDAGOGIA VISUAL COM “A BONECA FLALIBRAS” A PARTIR DAS TECNOLOGIAS DA EDUCAÇÃO E INFORMAÇÃO
-- **Autores:** FLÁVIA REGINA FRANÇA PASCOAL DE OLIVEIRA, SARA MOITINHO
-- **Ano:** 2026
-- **Publicação / Veículo:** Políticas Públicas de Educação (Vol. 04)
-- **DOI:** 10.46943/xi.conedu.2025.gt21.037
-- **Link / Fonte Directa:** [https://doi.org/10.46943/xi.conedu.2025.gt21.037](https://doi.org/10.46943/xi.conedu.2025.gt21.037)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> O presente trabalho visa refletir sobre as possibilidades das Políticas Públicas Linguísticas voltadas para a produção de Recursos Didáticos Bilíngues e a Alfabetização/Letramento a partir da Língua Brasileira de Sinais – Libras (L1) e as possibilidades com a Língua Portuguesa para Surdos (L2) com a utilização lúdica da “Boneca FLALIBRAS” na Educação de Surdos e possibilidades do trabalho pedagógico com a utilização das Tecnologias da Informação e Comunicação (TICs) durante a Apresentação de Minicurso no Congresso Internacional do Instituto Nacional de Surdos – COINES 2024. Os estudos foram realizados a partir de Pesquisa Bibliográfica com estudos de Quadros (2000; 2006), Libâneo (2007), Sancho (2001), Campello (2008), dentre outros que colaboraram para o referido trabalho. Os relatos de experiências foram transformados em Minicurso, onde as experiências aqui relatadas foram transformadas em Minicurso, com apresentação da Ementa: no primeiro momento houve estudo sobre “Educação de Surdos na perspectiva de Educação Bilíngue”, a “Alfabetização/Letramento de Surdos com o uso da Libras”, a importância da “Pedagogia Visual”. Os estudos seguem com as experiências pedagógicas e as intervenções a partir do lúdico com a “Boneca FLALIBRAS”, bem como as possibilidades de Planejamento e vivências na abordagem bilíngue. Outros registros a serem considerados constam com a utilização das TICs, com a disponibilização de vídeos no Canal YouTube e início do Instagram da “FLALIBRAS”, com acesso à criação da caricatura da personagem e do seu sinal. Para as considerações finais alguns pontos foram abordados para pesquisas futuras, como as possibilidades através das Tecnologias da Comunicação e Informação (TICs), a necessidade da Formação Continuada na Educação de Surdos e a permanência de Políticas Públicas voltadas para a proposta de Educação Bilíngue.
-
----
-
-### 15. Práticas na Educação Superior, Tecnologias Digitais e Uso de Inteligência Artificial: Políticas, Limites e Possibilidades
+### 14. Práticas na Educação Superior, Tecnologias Digitais e Uso de Inteligência Artificial: Políticas, Limites e Possibilidades
 - **Autores:** Pollyana Vieira de Andrade, Leila Cristina Borges
 - **Ano:** 2026
 - **Publicação / Veículo:** Anais do VI Seminário de Educação a Distância (SEAD 2026)
@@ -204,7 +191,33 @@ Palavras-chave: Educação a distância. Formação omnilateral. Educação prof
 
 ---
 
-### 16. Acessibilidade no Moodle: Análise de Plugins e Boas Práticas para uma EaD Inclusiva
+### 15. AS POLÍTICAS PÚBLICAS LINGUÍSTICAS NA PRODUÇÃO DE RECURSOS DIDÁTICOS BILÍNGUES E O TRABALHO DA PEDAGOGIA VISUAL COM “A BONECA FLALIBRAS” A PARTIR DAS TECNOLOGIAS DA EDUCAÇÃO E INFORMAÇÃO
+- **Autores:** FLÁVIA REGINA FRANÇA PASCOAL DE OLIVEIRA, SARA MOITINHO
+- **Ano:** 2026
+- **Publicação / Veículo:** Políticas Públicas de Educação (Vol. 04)
+- **DOI:** 10.46943/xi.conedu.2025.gt21.037
+- **Link / Fonte Directa:** [https://doi.org/10.46943/xi.conedu.2025.gt21.037](https://doi.org/10.46943/xi.conedu.2025.gt21.037)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> O presente trabalho visa refletir sobre as possibilidades das Políticas Públicas Linguísticas voltadas para a produção de Recursos Didáticos Bilíngues e a Alfabetização/Letramento a partir da Língua Brasileira de Sinais – Libras (L1) e as possibilidades com a Língua Portuguesa para Surdos (L2) com a utilização lúdica da “Boneca FLALIBRAS” na Educação de Surdos e possibilidades do trabalho pedagógico com a utilização das Tecnologias da Informação e Comunicação (TICs) durante a Apresentação de Minicurso no Congresso Internacional do Instituto Nacional de Surdos – COINES 2024. Os estudos foram realizados a partir de Pesquisa Bibliográfica com estudos de Quadros (2000; 2006), Libâneo (2007), Sancho (2001), Campello (2008), dentre outros que colaboraram para o referido trabalho. Os relatos de experiências foram transformados em Minicurso, onde as experiências aqui relatadas foram transformadas em Minicurso, com apresentação da Ementa: no primeiro momento houve estudo sobre “Educação de Surdos na perspectiva de Educação Bilíngue”, a “Alfabetização/Letramento de Surdos com o uso da Libras”, a importância da “Pedagogia Visual”. Os estudos seguem com as experiências pedagógicas e as intervenções a partir do lúdico com a “Boneca FLALIBRAS”, bem como as possibilidades de Planejamento e vivências na abordagem bilíngue. Outros registros a serem considerados constam com a utilização das TICs, com a disponibilização de vídeos no Canal YouTube e início do Instagram da “FLALIBRAS”, com acesso à criação da caricatura da personagem e do seu sinal. Para as considerações finais alguns pontos foram abordados para pesquisas futuras, como as possibilidades através das Tecnologias da Comunicação e Informação (TICs), a necessidade da Formação Continuada na Educação de Surdos e a permanência de Políticas Públicas voltadas para a proposta de Educação Bilíngue.
+
+---
+
+### 16. A REVISÃO MEDIADA COMO ESTRATÉGIA DE INTERAÇÃO NA PRODUÇÃO DE MATERIAL DIDÁTICO DIGITAL
+- **Autores:** D. Hissa
+- **Ano:** 2026
+- **Publicação / Veículo:** Cadernos Discursivos
+- **DOI:** 10.61470/cadis.v1i1.75476
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/d408a5223840aaefa568ef705ad81a32fae1a34b](https://www.semanticscholar.org/paper/d408a5223840aaefa568ef705ad81a32fae1a34b)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Neste artigo, descrevemos a revisão textual mediada como estratégia de negociação de sentido no processo de escrita colaborativa do material didático digital para a Educação a Distância (EaD). Analisamos 25 webaulas do curso de Licenciatura Profissional e Tecnológica, postadas no Ambiente Virtual de Aprendizagem (AVA). Vimos que procedimentos de revisão, como acréscimos, supressão, substituição e deslocamento, somam-se às estratégias de interlocução, como a convergência, a divergência e a complementariedade, e convertem a produção do material didático em um processo singular de interação textualizada. Como resultados, temos que a revisão do material didático destinado à EaD é um processo multidisciplinar, cuja principal característica é a escrita colaborativa marcada pela interação mediada entre pares.
+
+---
+
+### 17. Acessibilidade no Moodle: Análise de Plugins e Boas Práticas para uma EaD Inclusiva
 - **Autores:** Heoclizia Aparecida Alves de Mautas Mesquita, Juliana Borges de Souza, Angélica Alves de Mautas de Andrade
 - **Ano:** 2025
 - **Publicação / Veículo:** EaD em Foco
@@ -223,33 +236,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 17. Implementação do Moodle como Ferramenta de Apoio ao Docente no Ensino Público Municipal:
-- **Autores:** C. S. Silva, Hugo Leonardo Pereira Rufino, Adriano Euripedes Medeiros Martins
-- **Ano:** 2025
-- **Publicação / Veículo:** Revista Brasileira de Aprendizagem Aberta e a Distância
-- **DOI:** 10.17143/rbaad.v25i1.808
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/b1cbf0ae3472dc2baa2ce398b70070cd9012122f](https://www.semanticscholar.org/paper/b1cbf0ae3472dc2baa2ce398b70070cd9012122f)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> A Educação a Distância (EaD) tem desempenhado papel crucial na democratização do ensino em localidades com desafios estruturais, como Ibiá-MG, especialmente durante a pandemia deCOVID-19, que evidenciou a necessidade de soluções tecnológicas e híbridas. Professoresmunicipais relataram dificuldades no uso de ferramentas digitais, destacando a urgência por suportetécnico e pedagógico. Para enfrentar esses desafios, foi implementado o Moodle como Ambiente Virtual de Aprendizagem (AVA) oficial no município, aliado a uma oficina prática para capacitação docente. A metodologia incluiu revisão da literatura, diagnóstico da infraestrutura tecnológicaescolar e a oferta de um curso modelo, promovendo o uso pedagógico do Moodle. Os resultados apontam avanços na modernização do ensino, com maior confiança docente no uso de tecnologiase adoção de metodologias ativas, apesar de limitações de conectividade e demanda por formação continuada. Este trabalho destaca o Moodle como ferramenta viável para EaD em contextos municipais, promovendo inclusão digital e inovação pedagógica.Palavras-chave: Formação Docente. Inclusão Digital. Metodologias Ativas. Ambientes Virtuais de Aprendizagem. Inovação Tecnológica.
-
----
-
-### 18. Prática Pedagógica via mapas conceituais: descritores no âmbito de um Curso de licenciatura na modalidade EaD/UAB
-- **Autores:** Maiara Chary Brandalise, André Luís Silva da Silva, Adriana Fagundes Greco, J. Del Pino
-- **Ano:** 2025
-- **Publicação / Veículo:** REVISTA DELOS
-- **DOI:** 10.55905/rdelosv18.n70-082
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/c3ade75f03f9cee213519d6e0bde28a4a05dd57f](https://www.semanticscholar.org/paper/c3ade75f03f9cee213519d6e0bde28a4a05dd57f)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> A Prática Pedagógica, legalmente constituída, faz parte dos cursos brasileiros de licenciatura, na modalidade presencial e a distância, englobando a formação, os horários, os espaços escolares e as escolhas na organização do trabalho docente. Seu escopo consiste na operacionalização dos conteúdos curriculares de forma teórico-prática, sob o olhar atento da realidade profissional pretendida. Nessa perspectiva, a pesquisa relatada neste artigo teve como propósito analisar, por meio do Ambiente Virtual de Aprendizagem (AVA), como as metodologias ativas com ênfase no uso de mapas conceituais, contribuem para a formação inicial de discentes de licenciatura, no contexto de um curso EaD (Educação a Distância), promovendo uma aprendizagem significativa e contextualizada. O objeto de análise foi o Ambiente Virtual de Aprendizagem (AVA) – Moodle Institucional, a partir do acompanhamento de postagens de docentes em componentes curriculares com práticas pedagógicas obrigatórias em sua ementa. Percebeu-se que os mapas conceituais são amplamente utilizados como recurso didático-pedagógico, tendo sido explorados com propósitos distintos, perpassando pela aprendizagem de conhecimentos consolidados até sua avaliação final. Por fim, ao analisar sua operacionalidade, considera-se esta estratégia plenamente adequada para o desenvolvimento de reflexões compatíveis com a realidade profissional pretendida, sob marcos teóricos previamente estabelecidos.
-
----
-
-### 19. Educação Profissional e Tecnológica na EaD: caminhos para a formação humana integral
+### 18. Educação Profissional e Tecnológica na EaD: caminhos para a formação humana integral
 - **Autores:** C. MORAIS, C. VIANNA
 - **Ano:** 2025
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -262,7 +249,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 20. A integração do cinema e da filosofia como ferramenta de ensino: desenvolvimento de um produto educacional para a formação humana integral na educação profissional e tecnológica
+### 19. A integração do cinema e da filosofia como ferramenta de ensino: desenvolvimento de um produto educacional para a formação humana integral na educação profissional e tecnológica
 - **Autores:** Rodrigo Magarinus, Ana Sara Castaman
 - **Ano:** 2025
 - **Publicação / Veículo:** Educação profissional e tecnológica: textos e contextos de formação
@@ -275,7 +262,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 21. Evolución metodológica en la investigación de competencias docentes y digitales en la educación superior
+### 20. Evolución metodológica en la investigación de competencias docentes y digitales en la educación superior
 - **Autores:** Autores não informados
 - **Ano:** 2025
 - **Publicação / Veículo:** GESTIÓN DEL TALENTO Y COMPETENCIAS EN LA EDUCACIÓN SUPERIOR LATINOAMERICANA
@@ -288,7 +275,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 22. Competências digitais para docentes
+### 21. Competências digitais para docentes
 - **Autores:** Ilka Márcia Ribeiro de Souza Serra, José António Marques Moreira, Thiago Anchieta de Melo
 - **Ano:** 2025
 - **Publicação / Veículo:** Competências digitais de professores e estudantes
@@ -301,7 +288,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 23. Evaluating a Teacher Development Course for Teaching STEM Activities with Introductory Internet of Things Concepts and AI Data Model Training Skills Using the TPACK Framework: Problem-Solving and Digital Creativity
+### 22. Evaluating a Teacher Development Course for Teaching STEM Activities with Introductory Internet of Things Concepts and AI Data Model Training Skills Using the TPACK Framework: Problem-Solving and Digital Creativity
 - **Autores:** Siu Kong, Cora Siu, Wing Yeung
 - **Ano:** 2025
 - **Publicação / Veículo:** Proceedings of the 17th International Conference on Computer Supported Education
@@ -314,7 +301,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 24. Mediação Pedagógica no Curso de Licenciatura em História da EaD-UFRPE
+### 23. Mediação Pedagógica no Curso de Licenciatura em História da EaD-UFRPE
 - **Autores:** Luciene Santos Pereira da Silva
 - **Ano:** 2025
 - **Publicação / Veículo:** Caderno Pedagógico
@@ -327,7 +314,7 @@ Palavras-chave: Acessibilidade digital. Educação a distância. Moodle. Inclus�
 
 ---
 
-### 25. Análise de Canais do Youtube como Objetos de Aprendizagem de Suporte ao Estudo de Anatomia
+### 24. Análise de Canais do Youtube como Objetos de Aprendizagem de Suporte ao Estudo de Anatomia
 - **Autores:** Luciano Vale, João Paulo da Silva Neto
 - **Ano:** 2025
 - **Publicação / Veículo:** EaD em Foco
@@ -342,7 +329,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 26. Inteligência Artificial na educação: avaliações teóricas e práticas em física com o suporte do ChatGPT e Arduino
+### 25. Inteligência Artificial na educação: avaliações teóricas e práticas em física com o suporte do ChatGPT e Arduino
 - **Autores:** Andre Luis Brito Querino
 - **Ano:** 2025
 - **Publicação / Veículo:** Caderno Pedagógico
@@ -355,7 +342,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 27. ANÁLISE DAS POLÍTICAS PUBLICAS DE INCLUSÃO DE ALUNOS COM ESPECTRO AUTISMO NO BRASIL E NA REDE MUNICIPAL DE FOZ DO IGUAÇU
+### 26. ANÁLISE DAS POLÍTICAS PUBLICAS DE INCLUSÃO DE ALUNOS COM ESPECTRO AUTISMO NO BRASIL E NA REDE MUNICIPAL DE FOZ DO IGUAÇU
 - **Autores:** Juliana Francieli Sandi, Alex Tomáz
 - **Ano:** 2025
 - **Publicação / Veículo:** Anais do Seminário de Políticas Públicas na América Latina
@@ -368,7 +355,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 28. A EDUCACAO A DISTANCIA NO ENSINO DE LINGUA PORTUGUESA: DESAFIOS E ESTRATEGIAS PEDAGOGICAS
+### 27. A EDUCACAO A DISTANCIA NO ENSINO DE LINGUA PORTUGUESA: DESAFIOS E ESTRATEGIAS PEDAGOGICAS
 - **Autores:** Paola Costa da Silva Cardoso
 - **Ano:** 2025
 - **Publicação / Veículo:** Linguística, letras e artes: narrativas e discursos na construção cultural 3
@@ -381,7 +368,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 29. Bacterial cellulose-FucoPol composite hydrogel dressings for advanced wound treatment
+### 28. Bacterial cellulose-FucoPol composite hydrogel dressings for advanced wound treatment
 - **Autores:** Asiyah Esmail, Ana Rovisco, Maria Morais, Ana Pimentel, Elvira Fortunato, Ana Teresa Serra, Filomena Freitas
 - **Ano:** 2025
 - **Publicação / Veículo:** International Journal of Biological Macromolecules
@@ -394,7 +381,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 30. Ensino de bioquímica a partir da criação e uso de recursos educacionais abertos
+### 29. Ensino de bioquímica a partir da criação e uso de recursos educacionais abertos
 - **Autores:** Gabriel Gerber Hornink
 - **Ano:** 2025
 - **Publicação / Veículo:** Recursos Educacionais Abertos: compartilhando experiências na Universidade Federal de Alfenas (UNIFAL-MG)
@@ -407,7 +394,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 31. O Objeto de Aprendizagem “Conquista de Córdoba”: desenvolvendo Recursos Educacionais Abertos para o Ensino Fundamental
+### 30. O Objeto de Aprendizagem “Conquista de Córdoba”: desenvolvendo Recursos Educacionais Abertos para o Ensino Fundamental
 - **Autores:** Saymon da S. Siqueira
 - **Ano:** 2025
 - **Publicação / Veículo:** Recursos Educacionais Abertos: compartilhando experiências na Universidade Federal de Alfenas (UNIFAL-MG)
@@ -420,7 +407,7 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 ---
 
-### 32. Percepções de Professores Sobre o Uso de Recursos Educacionais Abertos na Formação do Letramento Acadêmico
+### 31. Percepções de Professores Sobre o Uso de Recursos Educacionais Abertos na Formação do Letramento Acadêmico
 - **Autores:** Marcos Galini, Roberta Flaborea-Favaro
 - **Ano:** 2025
 - **Publicação / Veículo:** Revista Brasileira de Aprendizagem Aberta e a Distância
@@ -430,6 +417,19 @@ Palavras-chave: Educação. Ensino superior. Tecnologias digitais. Youtube. Apre
 
 > **Resumo / Abstract:**
 > Este artigo analisa os desafios do letramento acadêmico no ensino superior brasileiro e investiga o potencial de um Recurso Educacional Aberto (REA), voltado para o desenvolvimento dessa competência, como estratégia de apoio à aprendizagem. A pesquisa, de abordagem mista, examina a percepção de 26 professores universitários sobre o REA de Letramento Acadêmico da Univesp, buscando compreender suas possibilidades de uso na formação discente. Os resultados mostram que, embora os docentes reconheçam a importância do letramento acadêmico para o desempenho estudantil e profissional, os alunos enfrentam dificuldades na leitura e produção de textos. O estudo apresenta sugestões concretas de uso do REA, como sua integração em disciplinas, uso complementar e mediação docente. Conclui-se que a adoção de recursos como o REA da Univesp pode fortalecer as competências acadêmicas, desde que associada à conscientização institucional, colaboração docente e formação continuada.
+
+---
+
+### 32. Implantação da plataforma de autoria iseazy author no departamento de educação digital do Centro Universitário Belas Artes de São Paulo
+- **Autores:** João Paulo Tenório da Silva, Leila Rabello de Oliveira, Francisco Carlos Tadeu Starke Rodrigues
+- **Ano:** 2025
+- **Publicação / Veículo:** Brazilian Journal of Development
+- **DOI:** 10.34117/bjdv11n12-063
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/73b7bb0ec978c8e9fc7126bcb477df209e02ebc2](https://www.semanticscholar.org/paper/73b7bb0ec978c8e9fc7126bcb477df209e02ebc2)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Este artigo trata-se de um relato de experiência sobre a implantação da plataforma de autoria online isEazy Author no departamento de educação digital do Centro Universitário Belas Artes de São Paulo. Assim, visou-se encerrar o modelo de construção de roteiros educacionais por meio do Microsoft Power Point, seguido do encaminhamento para uma empresa terceirizada a função de construir ou atualizar o curso interativo, ou seja, o material didático – à qual também estava atribuída a função de devolver o material no formato de pacote scorm para a aplicação no Ambiente Virtual de Aprendizagem. Foi utilizado o método de relato de experiência e bibliográfica, pois foram utilizados livros e sites relacionados ao tema. Buscou também, compreender o público-alvo da universidade e perfil da experiência com o usuário aderente para aprendizagem, interatividade, usabilidade, engajamento e gamificação. O resultado foi a utilização da plataforma isEazy Author pela equipe de multimídia que acelerou a produção dos cursos EAD, além de construir modelos de templates para cursos de graduação, pós-graduação e cursos em microlearning.
 
 ---
 
@@ -593,21 +593,7 @@ Palavras-chave: Educadores sociais. Movimento popular. Metodologias participativ
 
 ---
 
-### 45. Creating Online Faculty Learning Communities Using the Cross-Classroom Collaborative Projectbased Learning Framework
-- **Autores:** Lee Barron
-- **Ano:** 2024
-- **Publicação / Veículo:** Expanding the Vision of Faculty Learning Communities in Higher Education
-- **DOI:** 10.1108/979-8-88730-600-120251016
-- **Link / Fonte Directa:** [https://doi.org/10.1108/979-8-88730-600-120251016](https://doi.org/10.1108/979-8-88730-600-120251016)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> <jats:title>Abstract</jats:title>
-                  Given that traditional faculty development approaches may not be sustainable, economical or effective, large scale faculty development efforts are required to keep up with the changing needs of students learning in higher education. Although, faculty learning communities have been successfully implemented, they are constrained by time, space and pace, thus limiting their accessibility. This chapter describes a method of creating online faculty learning communities (OFLCs) in higher education using the cross-classroom collaborative project-based learning (C3PjBL) framework. C3PjBL allows faculty (within or across institutions) to collaborate, while creating and publishing project artefacts. Using a critical review of the OFLC literature, the research question “What are the characteristic elements of OFLCs?” was answered. A second research question “Can the C3PjBL framework be used to create OFLCs in higher education?” was also posed and answered through an OFLC example. This example showed that the elements of an OFLC can be implemented or supported using the C3PjBL framework. The use of C3PjBL for both project-based learning (PjBL) and OFLCs provides a sustainable, economical and effective model for faculty development by overcoming challenges such as limited faculty time and resources. Given the popularity of PjBL, this approach provides an opportunity for more institutions to offer faculty development through C3PjBL.
-
----
-
-### 46. A formação docente para recursos educacionais abertos na educação de jovens e adultos
+### 45. A formação docente para recursos educacionais abertos na educação de jovens e adultos
 - **Autores:** Magda Lucia Vilas-Boas
 - **Ano:** 2024
 - **Publicação / Veículo:** CONTRIBUCIONES A LAS CIENCIAS SOCIALES
@@ -620,7 +606,7 @@ Palavras-chave: Educadores sociais. Movimento popular. Metodologias participativ
 
 ---
 
-### 47. O USO DE RECURSOS EDUCACIONAIS ABERTOS (REA) NA PRÁTICA DOCENTE EM CURSOS DE GRADUAÇÃO NA EDUCAÇÃO A DISTÂNCIA
+### 46. O USO DE RECURSOS EDUCACIONAIS ABERTOS (REA) NA PRÁTICA DOCENTE EM CURSOS DE GRADUAÇÃO NA EDUCAÇÃO A DISTÂNCIA
 - **Autores:** Lilian Amaral da Silva Souza, Patrícia Lupion Torres, Raquel Pasternak Glitz Kowalski
 - **Ano:** 2024
 - **Publicação / Veículo:** Building bridges to learning: innovation and pedagogical practices
@@ -633,7 +619,7 @@ Palavras-chave: Educadores sociais. Movimento popular. Metodologias participativ
 
 ---
 
-### 48. Apps no Ensino de Línguas: Guia de Curadoria para Educadores
+### 47. Apps no Ensino de Línguas: Guia de Curadoria para Educadores
 - **Autores:** Eliene Botelho Monteiro
 - **Ano:** 2024
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -646,7 +632,7 @@ Palavras-chave: Educadores sociais. Movimento popular. Metodologias participativ
 
 ---
 
-### 49. A Cultura Visual em Ambientes Virtuais de Aprendizagem: Olhares Docentes e Discentes
+### 48. A Cultura Visual em Ambientes Virtuais de Aprendizagem: Olhares Docentes e Discentes
 - **Autores:** Bianca Carneiro Ribeiro, Marcelo Sabbatini
 - **Ano:** 2024
 - **Publicação / Veículo:** EaD em Foco
@@ -661,7 +647,7 @@ Palavras-chave: Cultura visual. Ambiente virtual de aprendizagem. Percepção di
 
 ---
 
-### 50. Moodle acadêmico e a experiência de formação EAD: possibilidades e potencialidades da ferramenta digital para o ensino
+### 49. Moodle acadêmico e a experiência de formação EAD: possibilidades e potencialidades da ferramenta digital para o ensino
 - **Autores:** Micael Sampailo
 - **Ano:** 2023
 - **Publicação / Veículo:** EaD &amp; Tecnologias Digitais na Educação
@@ -674,7 +660,7 @@ Palavras-chave: Cultura visual. Ambiente virtual de aprendizagem. Percepção di
 
 ---
 
-### 51. Tendências de Learning Analytics em Moodle: uma Revisão Sistemática
+### 50. Tendências de Learning Analytics em Moodle: uma Revisão Sistemática
 - **Autores:** Bruno Porto, Dainer Marçal Dias, Vanessa Battestin
 - **Ano:** 2023
 - **Publicação / Veículo:** EaD em Foco
@@ -689,7 +675,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 52. FERRAMENTAS EDUCACIONAIS DIGITAIS: UMA DISCUSSÃO BASEADA NAS PERCEPÇÕES DE PROFESSORES DE UMA ESCOLA ESTADUAL DO MUNICÍPIO DE ALMAS-TO
+### 51. FERRAMENTAS EDUCACIONAIS DIGITAIS: UMA DISCUSSÃO BASEADA NAS PERCEPÇÕES DE PROFESSORES DE UMA ESCOLA ESTADUAL DO MUNICÍPIO DE ALMAS-TO
 - **Autores:** Lucivânia Rodrigues da Silva
 - **Ano:** 2023
 - **Publicação / Veículo:** Convergências: estudos em Humanidades Digitais
@@ -702,7 +688,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 53. Formação pedagógica para educação profissional e tecnológica em ead do IFFAR: aproximações ao currículo integrado
+### 52. Formação pedagógica para educação profissional e tecnológica em ead do IFFAR: aproximações ao currículo integrado
 - **Autores:** Luciana Paslauski Knebel, Adão Caron Cambraia
 - **Ano:** 2023
 - **Publicação / Veículo:** EaD &amp; Tecnologias Digitais na Educação
@@ -715,7 +701,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 54. Filosofia e ensino médio: uma relação pautada na Formação Humana Integral
+### 53. Filosofia e ensino médio: uma relação pautada na Formação Humana Integral
 - **Autores:** Erika Viana de Sena, Cirlande Cabral da Silva
 - **Ano:** 2023
 - **Publicação / Veículo:** Perspectivas da Educação Profissional e Tecnológica na Amazônia - Volume 1
@@ -728,7 +714,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 55. The Adoption and Use of Moodle in Online Learning: A Systematic Review
+### 54. The Adoption and Use of Moodle in Online Learning: A Systematic Review
 - **Autores:** Autores não informados
 - **Ano:** 2023
 - **Publicação / Veículo:** Information Sciences Letters
@@ -741,7 +727,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 56. Formação docente para o ensino de produção textual com recursos digitais
+### 55. Formação docente para o ensino de produção textual com recursos digitais
 - **Autores:** Jorge Wilson Conceição
 - **Ano:** 2023
 - **Publicação / Veículo:** Leitura, literatura e produção textual: praticas pedagógicas inovadoras 4
@@ -754,7 +740,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 57. Competencias digitales docentes en el nivel de educación superior en Argentina
+### 56. Competencias digitales docentes en el nivel de educación superior en Argentina
 - **Autores:** María Cristina Kanobel, María Gabriela Galli, Débora Mirta Chan
 - **Ano:** 2023
 - **Publicação / Veículo:** Cuadernos de Investigación Educativa
@@ -767,7 +753,7 @@ Palavras-chave: Learning analytics.  Moodle.  Revisão sistemática.
 
 ---
 
-### 58. GAMIFICAÇÃO E APRENDIZADO LÚDICO NA FORMAÇÃO DE PROFESSORES: UMA ABORDAGEM INOVADORA PARA O
+### 57. GAMIFICAÇÃO E APRENDIZADO LÚDICO NA FORMAÇÃO DE PROFESSORES: UMA ABORDAGEM INOVADORA PARA O
 DESENVOLVIMENTO PROFISSIONAL DOCENTE
 - **Autores:** Anne Karoline Vieira de Abreu, Jefferson Nogueira de Oliveira, Alessandro Silva de Oliveira
 - **Ano:** 2023
@@ -781,7 +767,7 @@ DESENVOLVIMENTO PROFISSIONAL DOCENTE
 
 ---
 
-### 59. Políticas, modelos e práticas educacionais sobre competências digitais para o desenvolvimento profissional docente: o caso italiano
+### 58. Políticas, modelos e práticas educacionais sobre competências digitais para o desenvolvimento profissional docente: o caso italiano
 - **Autores:** Maria Ranieri, Alice Roffi
 - **Ano:** 2023
 - **Publicação / Veículo:** Competências digitais e digital storytelling: práticas e narrativas na formação docente
@@ -794,7 +780,7 @@ DESENVOLVIMENTO PROFISSIONAL DOCENTE
 
 ---
 
-### 60. DESENVOLVIMENTO PROFISSIONAL NA EDUCAÇÃO INFANTIL: FORMAÇÃO, RECONHECIMENTO E VALORIZAÇÃO DOCENTE
+### 59. DESENVOLVIMENTO PROFISSIONAL NA EDUCAÇÃO INFANTIL: FORMAÇÃO, RECONHECIMENTO E VALORIZAÇÃO DOCENTE
 - **Autores:** Valdete Côco, André Da Silva Mello
 - **Ano:** 2023
 - **Publicação / Veículo:** Jornal de Políticas Educacionais
@@ -807,7 +793,7 @@ DESENVOLVIMENTO PROFISSIONAL DOCENTE
 
 ---
 
-### 61. ALFABETIZAÇÃO E LETRAMENTO DE ALUNOS COM DEFICIÊNCIA  INTELECTUAL: UM ESTUDO SOBRE ESTRATÉGIAS ALFABETIZADORAS
+### 60. ALFABETIZAÇÃO E LETRAMENTO DE ALUNOS COM DEFICIÊNCIA  INTELECTUAL: UM ESTUDO SOBRE ESTRATÉGIAS ALFABETIZADORAS
 - **Autores:** Leilane Clemente Domingos, Samira Casagrande
 - **Ano:** 2023
 - **Publicação / Veículo:** Revista Saberes Pedagógicos
@@ -821,7 +807,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 62. TECNOLOGIAS NA EDUCAÇÃO: PERCEPçÕES DE ESTUDANTES DO ENSINO SUPERIOR
+### 61. TECNOLOGIAS NA EDUCAÇÃO: PERCEPçÕES DE ESTUDANTES DO ENSINO SUPERIOR
 - **Autores:** André Luiz Vailati, Veronica Gesser
 - **Ano:** 2023
 - **Publicação / Veículo:** Educação: Expansão, políticas públicas e qualidade 3
@@ -834,7 +820,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 63. https://www.unoesc.edu.br/editora-unoesc/curriculo-da-educacao-basica-do-sistema-municipal-de-ensino-de-maravilha/
+### 62. https://www.unoesc.edu.br/editora-unoesc/curriculo-da-educacao-basica-do-sistema-municipal-de-ensino-de-maravilha/
 - **Autores:** 
 - **Ano:** 2023
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -847,7 +833,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 64. O material didático digital para EAD: alguns apontamentos
+### 63. O material didático digital para EAD: alguns apontamentos
 - **Autores:** Ednei Nunes de Oliveira, Marco Antonio Rodrigues Paulo
 - **Ano:** 2023
 - **Publicação / Veículo:** EaD &amp; Tecnologias Digitais na Educação
@@ -860,7 +846,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 65. Open Educational Resources: Collaboration between Community College Librarians and Faculty
+### 64. Open Educational Resources: Collaboration between Community College Librarians and Faculty
 - **Autores:** Amy Smith, Jamie L. Workman, Taralynn Hartsell, D. Laverne Hill
 - **Ano:** 2023
 - **Publicação / Veículo:** Journal of Open Educational Resources in Higher Education
@@ -874,7 +860,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 66. Contextualising Open Educational Resources in Higher Education
+### 65. Contextualising Open Educational Resources in Higher Education
 - **Autores:** Jako Olivier, Andreas Rambow
 - **Ano:** 2023
 - **Publicação / Veículo:** Future Education and Learning Spaces
@@ -887,7 +873,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 67. Guia Orientador para Curadoria de Jogos Digitais para o Ensino de Matemática
+### 66. Guia Orientador para Curadoria de Jogos Digitais para o Ensino de Matemática
 - **Autores:** Anna Christina Castro Corrêa Said, Marize Lyra Silva Passos
 - **Ano:** 2023
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -900,7 +886,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 68. espaco de experimentacao para a formacao docente
+### 67. espaco de experimentacao para a formacao docente
 - **Autores:** Lucia Giraffa, Daiane Modelski
 - **Ano:** 2022
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -913,7 +899,7 @@ PALAVRAS-CHAVE: Estratégias alfabetizadoras. Letramento. Deficiência intelectu
 
 ---
 
-### 69. Tendências das Propostas de Gamificação no Moodle: uma Revisão Sistemática
+### 68. Tendências das Propostas de Gamificação no Moodle: uma Revisão Sistemática
 - **Autores:** Bruno Porto, Vanessa Battestin
 - **Ano:** 2022
 - **Publicação / Veículo:** EaD em Foco
@@ -928,7 +914,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 70. Moodle para Professores dos Anos Iniciais do Ensino Fundamental: uma experiência de formação continuada
+### 69. Moodle para Professores dos Anos Iniciais do Ensino Fundamental: uma experiência de formação continuada
 - **Autores:** Patricia Ribeiro Vasconcellos, Cristina Ferreira Branco, Gilsely de Carvalho Gavinho do Nascimento, Marta Lyrio da Cunha
 - **Ano:** 2022
 - **Publicação / Veículo:** Revista Parcerias Digitais
@@ -941,7 +927,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 71. O USO DE TECNOLOGIAS COMPUTACIONAIS MÓVEIS NA ESCOLA DO CAMPO: O QUE PENSAM OS PROFESSORES?
+### 70. O USO DE TECNOLOGIAS COMPUTACIONAIS MÓVEIS NA ESCOLA DO CAMPO: O QUE PENSAM OS PROFESSORES?
 - **Autores:** Andley da Silva Brito, Ana Beatriz Lyra Amorim Linhares, Lilian Pereira da Silva Teixeira
 - **Ano:** 2022
 - **Publicação / Veículo:** Tecnologias digitais na escola básica: Dispositivos móveis, narrativas digitais e ferramentas que inovam a prática pedagógica
@@ -954,7 +940,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 72. Ensaio do ensino em Administração na Educação Profissional Tecnológica
+### 71. Ensaio do ensino em Administração na Educação Profissional Tecnológica
 - **Autores:** C. R. R. SOARES
 - **Ano:** 2022
 - **Publicação / Veículo:** Docente em Formação: uma experiência teórico-prática
@@ -967,7 +953,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 73. https://editorailustracao.com.br/livro/praticas-pedagogicas-formacao-de-professores-e-curriculo
+### 72. https://editorailustracao.com.br/livro/praticas-pedagogicas-formacao-de-professores-e-curriculo
 - **Autores:** Autores não informados
 - **Ano:** 2022
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -980,7 +966,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 74. Projeto geociencias e a formacao continuada de professores em exercicio no " ensmo fundamental: Reflexoes e resultados finais
+### 73. Projeto geociencias e a formacao continuada de professores em exercicio no " ensmo fundamental: Reflexoes e resultados finais
 - **Autores:** MAURICIO COMPIANI
 - **Ano:** 2022
 - **Publicação / Veículo:** Zona Próxima
@@ -993,7 +979,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 75. The Digital Teacher
+### 74. The Digital Teacher
 - **Autores:** F. Sehkar Fayda-Kinik
 - **Ano:** 2022
 - **Publicação / Veículo:** Advances in Educational Technologies and Instructional Design
@@ -1006,7 +992,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 76. Faculty Development for Online Teaching
+### 75. Faculty Development for Online Teaching
 - **Autores:** Karen R. Johnson, Gertrude I. Hewapathirana, Mauvalyn M. Bowen
 - **Ano:** 2022
 - **Publicação / Veículo:** Research Anthology on Remote Teaching and Learning and the Future of Online Education
@@ -1019,7 +1005,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 77. Applying a Teaching Decision Cycle to the Design of Online Learning Within Faculty Professional Development
+### 76. Applying a Teaching Decision Cycle to the Design of Online Learning Within Faculty Professional Development
 - **Autores:** Neal Shambaugh
 - **Ano:** 2022
 - **Publicação / Veículo:** Research Anthology on Remote Teaching and Learning and the Future of Online Education
@@ -1032,7 +1018,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 78. "Toda educação é autoeducação”
+### 77. "Toda educação é autoeducação”
 - **Autores:** Sofia Amorim, Jonas Bach Junior
 - **Ano:** 2022
 - **Publicação / Veículo:** Revista Triângulo
@@ -1045,7 +1031,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 79. O ENSINO DA ESCRITA ALFABÉTICA NO FINAL DA EDUCAÇÃO INFANTIL
+### 78. O ENSINO DA ESCRITA ALFABÉTICA NO FINAL DA EDUCAÇÃO INFANTIL
 - **Autores:** Artur Gomes de Morais, Alexsandro Da Silva
 - **Ano:** 2022
 - **Publicação / Veículo:** Cadernos de Educação
@@ -1058,7 +1044,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 80. Access Support Services
+### 79. Access Support Services
 - **Autores:** Florence Martin, Helen Coleman
 - **Ano:** 2022
 - **Publicação / Veículo:** Online Learning
@@ -1071,7 +1057,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 81. Learner Support Services in an Online Learning Environment
+### 80. Learner Support Services in an Online Learning Environment
 - **Autores:** Alperhan Babacan, Matthew Thurgood
 - **Ano:** 2022
 - **Publicação / Veículo:** University Development and Administration
@@ -1084,7 +1070,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 82. Arquitetura pedagógica e o uso de objetos digitais de aprendizagem:computação afetiva em ambientes virtuais de aprendizagem
+### 81. Arquitetura pedagógica e o uso de objetos digitais de aprendizagem:computação afetiva em ambientes virtuais de aprendizagem
 - **Autores:** Gustavo Gava, Mariana Haviaras
 - **Ano:** 2022
 - **Publicação / Veículo:** REVISTA INTERSABERES
@@ -1097,7 +1083,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 83. Para bom provedor uma plataforma Moodle basta: estudo sobre a construção de territórios virtuais na formação em EaD
+### 82. Para bom provedor uma plataforma Moodle basta: estudo sobre a construção de territórios virtuais na formação em EaD
 - **Autores:** Débora Gaspar Soares
 - **Ano:** 2021
 - **Publicação / Veículo:** Formação docente, ensino de geografia e o livro didático
@@ -1110,20 +1096,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 84. Formação continuada de professores: o caso da formação de preceptores de Residência Pedagógica pelo Moodle/UFGD
-- **Autores:** M. Paulo, Ednei Nunes de Oliveira
-- **Ano:** 2021
-- **Publicação / Veículo:** EaD &amp; Tecnologias Digitais na Educação
-- **DOI:** 10.30612/eadtde.v9i11.16059
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/bab1b0efdf6b7a591fa31fdcf879e7ee3d81183b](https://www.semanticscholar.org/paper/bab1b0efdf6b7a591fa31fdcf879e7ee3d81183b)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> o Programa Residência Pedagógica – PRP é uma das ações que integram a Política Nacional de Formação de Professores e determina que o docente da educação básica, selecionado para orientar o estágio curricular dos residentes do programa nas escolas, deveria passar por uma Capacitação. Assim, esse trabalho relata como o Curso de Formação de Preceptores foi organizado e executado pela Coordenação Institucional do PRP da Universidade Federal da Grande Dourados – UFGD (de Outubro de 2018 a Dezembro de 2019), por meio do Ambiente Virtual de Aprendizagem – AVA Moodle, da Faculdade de Educação a Distância – EaD/UFGD.
-
----
-
-### 85. Motivação e experiência educacionais dos alunos e professores no contexto de ferramentas digitais no período de pandemia
+### 83. Motivação e experiência educacionais dos alunos e professores no contexto de ferramentas digitais no período de pandemia
 - **Autores:** LUIZ MANOEL LOPES
 - **Ano:** 2021
 - **Publicação / Veículo:** Revista Interdisciplinar em Cultura e Sociedade
@@ -1136,7 +1109,20 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 86. uso de ferramentas digitais no ensino de língua inglesa para alunos surdos: o que dizem os professores?
+### 84. Formação continuada de professores: o caso da formação de preceptores de Residência Pedagógica pelo Moodle/UFGD
+- **Autores:** Marco Antonio Rodrigues Paulo, Ednei Nunes de Oliveira
+- **Ano:** 2021
+- **Publicação / Veículo:** EaD &amp; Tecnologias Digitais na Educação
+- **DOI:** 10.30612/eadtde.v9i11.16059
+- **Link / Fonte Directa:** [https://doi.org/10.30612/eadtde.v9i11.16059](https://doi.org/10.30612/eadtde.v9i11.16059)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> o Programa Residência Pedagógica – PRP é uma das ações que integram a Política Nacional de Formação de Professores e determina que o docente da educação básica, selecionado para orientar o estágio curricular dos residentes do programa nas escolas, deveria passar por uma Capacitação. Assim, esse trabalho relata como o Curso de Formação de Preceptores foi organizado e executado pela Coordenação Institucional do PRP da Universidade Federal da Grande Dourados – UFGD (de Outubro de 2018 a Dezembro de 2019), por meio do Ambiente Virtual de Aprendizagem – AVA Moodle, da Faculdade de Educação a Distância – EaD/UFGD.
+
+---
+
+### 85. uso de ferramentas digitais no ensino de língua inglesa para alunos surdos: o que dizem os professores?
 - **Autores:** Matheus Lucas de Almeida, Antonio Henrique Coutelo de Moraes, Juliene Lopes Ribeiro Pedrosa
 - **Ano:** 2021
 - **Publicação / Veículo:** Fórum Linguístico
@@ -1149,7 +1135,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 87. AN INVESTIGATION INTO BARRIERS IMPACTING AGAINST FACULTY BLENDED LEARNING ADOPTION
+### 86. AN INVESTIGATION INTO BARRIERS IMPACTING AGAINST FACULTY BLENDED LEARNING ADOPTION
 - **Autores:** Ahmed ANTWI-BOAMPONG
 - **Ano:** 2021
 - **Publicação / Veículo:** Turkish Online Journal of Distance Education
@@ -1162,7 +1148,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 88. DEVELOPMENT OF VIRTUAL LEARNING SYSTEM (VLS) BASED ON MOODLE AS A PLATFORM ONLINE LEARNING IN THE COVIC-19
+### 87. DEVELOPMENT OF VIRTUAL LEARNING SYSTEM (VLS) BASED ON MOODLE AS A PLATFORM ONLINE LEARNING IN THE COVIC-19
 - **Autores:** Sirwan Sirwan, Radhiani Ahyani, Sartika Sartika
 - **Ano:** 2021
 - **Publicação / Veículo:** Akademika
@@ -1175,7 +1161,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 89. Using a multidimensional approach to examine TPACK among teacher candidates
+### 88. Using a multidimensional approach to examine TPACK among teacher candidates
 - **Autores:** Huijing Wen, Valerie Harlow Shinas
 - **Ano:** 2021
 - **Publicação / Veículo:** Journal of Digital Learning in Teacher Education
@@ -1188,7 +1174,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 90. The Digital Gender Gap in Teacher Education: The TPACK Framework for the 21st Century
+### 89. The Digital Gender Gap in Teacher Education: The TPACK Framework for the 21st Century
 - **Autores:** Isabel Gómez-Trigueros, Cristina Yáñez de Aldecoa
 - **Ano:** 2021
 - **Publicação / Veículo:** European Journal of Investigation in Health, Psychology and Education
@@ -1201,7 +1187,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 91. LETRAMENTO DIGITAL NA PRÁTICA PEDAGÓGICA DAS ESCOLAS
+### 90. LETRAMENTO DIGITAL NA PRÁTICA PEDAGÓGICA DAS ESCOLAS
 - **Autores:** Ana Paula Gesuino, Graziela Fátima Giacomazzo
 - **Ano:** 2021
 - **Publicação / Veículo:** Revista Saberes Pedagógicos
@@ -1214,7 +1200,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 92. O TRABALHO DOCENTE NAS CLASSES HOSPITALARES: SOLIDARIEDADE E AMOR
+### 91. O TRABALHO DOCENTE NAS CLASSES HOSPITALARES: SOLIDARIEDADE E AMOR
 - **Autores:** José Rosamilton de Lima
 - **Ano:** 2021
 - **Publicação / Veículo:** Revista Saberes Pedagógicos
@@ -1227,7 +1213,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 93. Online Faculty Community
+### 92. Online Faculty Community
 - **Autores:** Twyla J. Tasker, Crystal M. Kreitler
 - **Ano:** 2021
 - **Publicação / Veículo:** Advances in Educational Technologies and Instructional Design
@@ -1240,7 +1226,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 94. Understanding Student Support
+### 93. Understanding Student Support
 - **Autores:** Tabitha Rangara-Omol
 - **Ano:** 2021
 - **Publicação / Veículo:** Research Anthology on Developing Effective Online Learning Courses
@@ -1253,7 +1239,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 95. The Unexpected Online Learning Pivot
+### 94. The Unexpected Online Learning Pivot
 - **Autores:** Caroline M. Crawford
 - **Ano:** 2021
 - **Publicação / Veículo:** Advances in Educational Technologies and Instructional Design
@@ -1263,6 +1249,19 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 > **Resumo / Abstract:**
 > The COVID-19 pandemic that swelled into an economic maelstrom during the year 2020 also focused a direct hit on higher education. As faculty and students were heading into spring break, the seismic impact of impending changes were realized. Within the digital age, the technology has raised an ever-increasing recognition of differentiated styles of teaching and learning, yet so many faculty held tightly to the traditional face-to-face instructional environments. Yet faculty persistence won the day, reflecting the ability of higher education faculty to succeed through the swerving road of the unknown, the tightrope that they walked dangling daringly over the online chasm of understanding. This chapter focuses on the initial foray into the principles of instruction, followed by an understanding of the differentiation between optics and outcomes, developing strategic priorities, an understanding of nuanced teaching and learning, and the gratitude and understanding conceived through critically reflective pedagogy and journaling.
+
+---
+
+### 95. Discutindo sobre a formação de professores de Letras Português e Literaturas: da EaD para o Ensino Remoto e além
+- **Autores:** A. Regner, A. Reginatto, V. Fialho, Jaíne de Fátima Machado da Silva
+- **Ano:** 2021
+- **Publicação / Veículo:** Revista Leitura
+- **DOI:** 10.28998/2317-9945.2021V0N68P169-188
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/195d82fbec023476b30778825b8869621679bddb](https://www.semanticscholar.org/paper/195d82fbec023476b30778825b8869621679bddb)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> O ensino mediado por tecnologias não é um tema recente de discussão dos sistemas de ensino, mas se tornou central especialmente pelo contexto da pandemia ocasionada pelo coronavírus. Nesse cenário, professores de diferentes modalidades tiveram que adaptar suas práticas para uma realidade de ensino exclusivamente remoto. Diante dessa “nova” maneira de ensinar, reflexões sobre a formação de professores para a atuação no meio digital se mostram essenciais para que possam ser exploradas as potencialidades que esse meio oferece. Entendemos que precisamos de professores letrados digitalmente e por isso é tão importante a inclusão de disciplinas que versem sobre tal tema em cursos de licenciatura. Nesse sentido, este trabalho tem como base a disciplina Formação de professores para EaD dos Cursos de Letras Licenciatura da UFSM, cujo objetivo é empregar conceitos e princípios dessa modalidade de ensino na produção de material didático. Propomos olhar para uma das atividades produzidas em grupo: desenvolvimento de um curso no Moodle. Nosso objetivo é refletir sobre como os participantes criaram os produtos, a partir das tecnologias digitais, bem como verificar as fragilidades em relação ao uso dessas tecnologias.  A metodologia, de natureza qualitativa, tem como instrumento de coleta de dados: i) percurso da disciplina; ii) questionário disponibilizado ao final da disciplina e iii) análise do produto desenvolvido pelos participantes. Os resultados apontam que a disciplina forneceu subsídios para a formação de professores e, em relação aos produtos desenvolvidos, percebemos a proposição de estratégias de ensino com o uso de tecnologias digitais para EaD. No entanto, ainda há lacunas referentes à elaboração de materiais de ensino tanto para a educação presencial quanto para a educação a distância. 
 
 ---
 
@@ -1474,20 +1473,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 112. PESQUISA EM LITERATURA E INTERDISCIPLINARIDADE: UM RELATO DE EXPERIÊNCIA NA FORMAÇÃO DOCENTE EAD
-- **Autores:** C. Duarte, Girlene Marques Formiga, M. D. O. de Oliveira Alves
-- **Ano:** 2019
-- **Publicação / Veículo:** Revista Paidéi@ - Revista Científica de Educação a Distância
-- **DOI:** 10.29327/3860.11.19-9
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/3f16dc50a9f5cd832ec6aa48710714e19827a0c8](https://www.semanticscholar.org/paper/3f16dc50a9f5cd832ec6aa48710714e19827a0c8)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> The curricular organization of the distance learning course of the IFPB offers the components Interdisciplinary Seminar I, II, III and IV, with the aim that the teachers in initial formation develop research that articulate the theories worked in the graduation with the experience in the school environment. In view of the importance of these components for the development of critical thinking and the research vocation that should reside in the teacher, in this research, we will describe, through an experience report, how the Interdisciplinary Seminars II and IV dedicated to the Literature. As specific objectives, we will present its prediction in the Pedagogical Project; we will indicate how these curricular components are presented to undergraduates; and we will reflect on his contribution to the training of ODL trainee. The methodology used will be descriptive-interpretative qualitative, in which, from the study of the Pedagogical Project and the presentation of the discipline in the virtual learning environment - Moodle Platform - we will present the operation of the Interdisciplinary Seminar II and IV component, as well as using the contextual and structural description for the experience report. As a result, it is possible to observe that, through Interdisciplinary Seminars, undergraduates are introduced into the field of scientific research, since they receive, during the guidelines that precede the final product of the component - the results of the investigation - instructions both regarding aspects of the research, as well as, after the research completed, should proceed with the presentation in a similar way to the oral communications so frequent in academic events.
-
----
-
-### 113. POLÍTICAS PÚBLICAS E O EMPREENDEDORISMO VOLTADO AO ENSINO PROFISSIONAL E TECNOLÒGICO COM APOIO DA EDUCAÇÃO A DISTÂNCIA (EAD) NO BRASIL
+### 112. POLÍTICAS PÚBLICAS E O EMPREENDEDORISMO VOLTADO AO ENSINO PROFISSIONAL E TECNOLÒGICO COM APOIO DA EDUCAÇÃO A DISTÂNCIA (EAD) NO BRASIL
 - **Autores:** Roberto Righi
 - **Ano:** 2019
 - **Publicação / Veículo:** Políticas Públicas na Educação Brasileira: Educação Profissional e Tecnológica
@@ -1500,7 +1486,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 114. TECNOLOGIAS EDUCACIONAIS E A FORMAÇÃO DOCENTE NO CONTEXTO DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+### 113. TECNOLOGIAS EDUCACIONAIS E A FORMAÇÃO DOCENTE NO CONTEXTO DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
 - **Autores:** Dione Mari Caetano, Flavia Heloisa Da Silva, Simone Urnauer, Ernani Viriato De Melo
 - **Ano:** 2019
 - **Publicação / Veículo:** Revista Brasileira da Educação Profissional e Tecnológica
@@ -1513,7 +1499,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 115. Considering Contextual Knowledge: The TPACK Diagram Gets an Upgrade
+### 114. Considering Contextual Knowledge: The TPACK Diagram Gets an Upgrade
 - **Autores:** Punya Mishra
 - **Ano:** 2019
 - **Publicação / Veículo:** Journal of Digital Learning in Teacher Education
@@ -1526,7 +1512,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 116. POLÍTICAS PUBLICAS VOLTADAS AO ESPORTE: UM RELATO DE EXPERIÊNCIA DO MUNICÍPIO DE LOANDA
+### 115. POLÍTICAS PUBLICAS VOLTADAS AO ESPORTE: UM RELATO DE EXPERIÊNCIA DO MUNICÍPIO DE LOANDA
 - **Autores:** Cássio Joaquim Gomes
 - **Ano:** 2019
 - **Publicação / Veículo:** A Educação Física em Foco 3
@@ -1536,6 +1522,19 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 > **Resumo / Abstract:**
 > Resumo não disponível via API Crossref.
+
+---
+
+### 116. Curso de formação para professores-autores
+- **Autores:** Deysianne Costa das Chagas, A. Oliveira, Paola Trindade Garcia, Regimarina Soares Reis, J. Pinho, S. Silva, Steffi Greyce de Castro Lima
+- **Ano:** 2019
+- **Publicação / Veículo:** Revista de Saúde Digital e Tecnologias Educacionais
+- **DOI:** 10.36517/resdite.v4i2.41607
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/faf16771cbfe77fd70fded6aab500c7ff82dd511](https://www.semanticscholar.org/paper/faf16771cbfe77fd70fded6aab500c7ff82dd511)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Objetivo: Descrever a experiência de um curso UNA-SUS UFMA em formação para professores-autores sobre elaboração de situações de aprendizagem para cursos EaD autoinstrucionais. Método: Trata-se de um estudo descritivo, do tipo relato de experiência que descreve o Curso “Elaboração de Situações de Aprendizagem para Cursos EaD autoinstrucionais” desenvolvido pela coordenação de produção pedagógica da UNA-SUS UFMA. Resultados: O curso foi desenvolvido na modalidade EaD, com carga horária total de 60 horas. Foi dividido em duas unidades educacionais, que abordavam as especificidades da elaboração de situações de aprendizagem e a aplicação de algumas diretrizes de elaboração do material didático direcionado à EaD. Como atividade avaliativa do curso, o professor-autor deveria enviar uma atividade de postagem, que consistia na elaboração de um roteiro síntese de uma situação problema, que foi utilizada como critério para certificação. Esta primeira onda de formação contou com 5 professores-autores. Conclusões: A estrutura e dinâmica do curso buscou contribuir para a formação de professores-autores que atuarão na elaboração de situações de aprendizagem para cursos EaD autoinstrucionais, promovendo o direcionamento para a construção de recursos educacionais adequados para esta modalidade de ensino.
 
 ---
 
@@ -1578,20 +1577,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 120. A Formação e as Práticas Pedagógicas dos Professores que Atuam nos Cursos Técnicos na Modalidade EaD na Rede e-Tec Brasil do CEFET-MG
-- **Autores:** M. Grossi, E. Oliveira
-- **Ano:** 2018
-- **Publicação / Veículo:** Revista Brasileira de Aprendizagem Aberta e a Distância
-- **DOI:** 10.17143/RBAAD.V17I1.36
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/62cf84ed998df193ae32ef5efecce0c9c150ba7a](https://www.semanticscholar.org/paper/62cf84ed998df193ae32ef5efecce0c9c150ba7a)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> O objetivo dessa pesquisa foi analisar a formação dos professores que atuam nos três cursos técnicos de nível médio oferecidos na modalidade a distância da Rede e-Tec Brasil do CEFET-MG e como essa formação interfere em suas práticas pedagógicas. Para tal, utilizou-se uma metodologia de pesquisa com abordagem qualitativa, por meio de levantamento bibliográfico e estudo de caso. Como instrumentos de coleta de dados, foram realizadas observações online no Ambiente Virtual de Aprendizagem (AVA Moodle) que abriga os três cursos a distância do CEFET-MG e aplicação de questionários aos professores desses cursos. Os resultados encontrados permitem concluir que a maioria dos professores não possui habilitação em Licenciatura e nem formação especifica para lecionarem na EaD, sobretudo para a utilização dos recursos e atividades do AVA Moodle. Como consequência, os professores têm dificuldades em estabelecer suas práticas pedagógicas e estratégias específicas para a EaD, fazendo com que o trabalho docente na modalidade a distância apresente pouco diferencial no que diz respeito à modalidade presencial.Palavras-chave: Educação a distância. Rede e-Tec Brasil CEFET-MG. Formação de professores. Práticas pedagógicas.The training and pedagogical practices of the teachers who work in the technical courses in the EAD mode in the e-Tec Brazil Network of CEFET-MGABSTRACTThe objective of this research was to analyze the training of teachers who work in the three technical courses offered in the distance modality of CEFET-MG e-Tec Brazil Network and how this training interferes with their pedagogical practices. To achieve this goal, a research methodology with a qualitative approach was adopted, through a bibliographic research and case study. As data collection instruments were made online observations in the virtual learning environment (AVA Moodle), which houses the three distance courses of CEFET-MG and, the application of questionnaires to the teachers of these courses. The results found allow us to conclude that most teachers do not have a Bachelor's degree or specific formation to teach in the EaD, especially for the use of the resources and activities of AVA Moodle. As a consequence, teachers have difficulties in establishing their pedagogical practices and specific strategies for distance education, making the teaching work in the distance modality presents low differential in relation to the classroom modalityKeywords: Distance education. E-Tec Brazil network CEFET-MG. Teacher training. Pedagogical practices.La formación y las prácticas pedagógicas de los profesores que actúan en los cursos técnicos en la modalidad EaD en la Red e-Tec Brasil del CEFET-MGRESUMENEl objetivo de esta investigación fue analizar la formación de los profesores que actúan en los tres cursos técnicos de nivel medio ofrecidos en la modalidad a distancia de la Red e-Tec Brasil del CEFET-MG y cómo esa formación interfiere en sus prácticas pedagógicas. Luego, se utilizó una metodología de investigación con abordaje cualitativo, por medio de levantamiento bibliográfico y estudio de caso. Como instrumentos de recolección de datos, se realizaron observación conectado en el Ambiente Virtual de Aprendizaje (AVA Moodle) que aloja los tres cursos a distancia del CEFET-MG y la aplicación de cuestionarios a los profesores de estos cursos. Los resultados encontrados permiten concluir que la mayoría de los profesores no tienen habilitación en Licenciatura ni formación específica para enseñar en la EaD, sobre todo para la utilización de los recursos y actividades de AVA Moodle. Como consecuencia, los profesores tienen dificultades para estabelecer en sus prácticas pedagógicas estrategias específicas para la EaD, haciendo que el trabajo docente en la modalidad a distancia presente poco diferencial en lo que se refiere a la modalidad presencial.Palabras clave: Educación a distancia. Red e-Tec Brasil CEFET-MG. Formación de profesores. Prácticas pedagógicas.
-
----
-
-### 121. Faculty Adoption of 3D Avatar-Based Virtual World Learning Environments
+### 120. Faculty Adoption of 3D Avatar-Based Virtual World Learning Environments
 - **Autores:** Susan Dass, Nada Dabbagh
 - **Ano:** 2018
 - **Publicação / Veículo:** Technology Adoption and Social Issues
@@ -1604,7 +1590,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 122. Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
+### 121. Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
 - **Autores:** Autores não informados
 - **Ano:** 2018
 - **Publicação / Veículo:** Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
@@ -1617,7 +1603,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 123. DESENVOLVIMENTO PESSOAL E PROFISSIONAL DOS DOCENTES QUE ATUAM NA EDUCAÇÃO DE JOVENS E ADULTOS NO PARANÁ
+### 122. DESENVOLVIMENTO PESSOAL E PROFISSIONAL DOS DOCENTES QUE ATUAM NA EDUCAÇÃO DE JOVENS E ADULTOS NO PARANÁ
 - **Autores:** ANA MARIA SOEK, Sonia Maria Chaves Haracemiv
 - **Ano:** 2018
 - **Publicação / Veículo:** Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
@@ -1630,7 +1616,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 124. O DOCENTE, A APRENDIZAGEM EM SERVIÇO E OS PROCESSOS AVALIATIVOS INSTITUCIONAIS
+### 123. O DOCENTE, A APRENDIZAGEM EM SERVIÇO E OS PROCESSOS AVALIATIVOS INSTITUCIONAIS
 - **Autores:** Maria Fatima Menegazzo Nicodem, Shiderlene Vieira de Almeida, Maristela Rosso Walker
 - **Ano:** 2018
 - **Publicação / Veículo:** Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
@@ -1643,7 +1629,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 125. Mal-estar dos Professores de Ciências e Matemática no Ensino Fundamental II
+### 124. Mal-estar dos Professores de Ciências e Matemática no Ensino Fundamental II
 - **Autores:** Cristiane do Nascimento Gonçalves Poltronieri
 - **Ano:** 2018
 - **Publicação / Veículo:** Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
@@ -1656,7 +1642,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 126. Acreditação do docente: o EPPLE como instrumento de controle de qualidade
+### 125. Acreditação do docente: o EPPLE como instrumento de controle de qualidade
 - **Autores:** MIRIAM SESTER RETORTA, Márcia dos Santos Lopes, Ana Valéria Bisetto Bork Godke
 - **Ano:** 2018
 - **Publicação / Veículo:** Anais do III Simpósio Internacional sobre Desenvolvimento Profissional Docente e III Congresso Internacional sobre Formação e Desenvolvimento Profissional Docente
@@ -1669,7 +1655,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 127. AS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO COMO POSSIBILIDADE DE MELHORIAS DA EDUCAÇÃO
+### 126. AS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO COMO POSSIBILIDADE DE MELHORIAS DA EDUCAÇÃO
 - **Autores:** Vera Adriana Huang Azevedo Hypólito, Katia Maria Roberto de Oliveira Kodama
 - **Ano:** 2018
 - **Publicação / Veículo:** Qualidade e políticas públicas na educação 8
@@ -1679,6 +1665,19 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 > **Resumo / Abstract:**
 > Resumo não disponível via API Crossref.
+
+---
+
+### 127. MATERIAL DIDÁTICO PARA A EAD: AUTORIA E CRIATIVIDADE
+- **Autores:** Cassandra Ribeiro Joye, D. Hissa, Fabrice Marc Joye, Lívia Maria de Lima Santiago, Karine Nascimento Portela
+- **Ano:** 2018
+- **Publicação / Veículo:** 
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/c1745d162a67ec29edae5a0a20c2e09114901766](https://www.semanticscholar.org/paper/c1745d162a67ec29edae5a0a20c2e09114901766)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Resumo não disponível na base Semantic Scholar.
 
 ---
 
@@ -1695,20 +1694,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 129. O USO DO MOODLE COMO FERRAMENTA DE CAPACITAÇÃO DOCENTE EM ASTRONOMIA DA REDE MUNICIPAL DE DOURADOS/MS
-- **Autores:** Luciane Aparecida Geraldo, Larissa de Souza Dias Santos, E. Souza
-- **Ano:** 2017
-- **Publicação / Veículo:** 
-- **DOI:** N/A
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/e19bfb53ff4047102bdbaa9beac1fcaccb33aeb4](https://www.semanticscholar.org/paper/e19bfb53ff4047102bdbaa9beac1fcaccb33aeb4)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> Resumo não disponível na base Semantic Scholar.
-
----
-
-### 130. SEMANA DE ORIENTAÇÃO, FORMAÇÃO E INTEGRAÇÃO ACADÊMICA: COMPETÊNCIAS TECNOLÓGICAS E METODOLÓGICAS PARA DOCENTE E TUTORES
+### 129. SEMANA DE ORIENTAÇÃO, FORMAÇÃO E INTEGRAÇÃO ACADÊMICA: COMPETÊNCIAS TECNOLÓGICAS E METODOLÓGICAS PARA DOCENTE E TUTORES
 - **Autores:** , FELLIPE DE ASSIS ZAREMBA, VALÉRIA RIBEIRO COLLATO, , JANES FIDÉLISTOMELIN, 
 - **Ano:** 2017
 - **Publicação / Veículo:** Apresentações Trabalhos Científicos
@@ -1721,7 +1707,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 131. https://editoracrv.com.br/produtos/detalhes/32198-os-desafios-do-ensino-de-ciencias-no-seculo-xxi-e-a-formacao-de-professores-para-a-educacao-basica
+### 130. https://editoracrv.com.br/produtos/detalhes/32198-os-desafios-do-ensino-de-ciencias-no-seculo-xxi-e-a-formacao-de-professores-para-a-educacao-basica
 - **Autores:** Marcelo Duarte Porto, Mirley Luciene dos Santos, João Roberto Resende Ferreira
 - **Ano:** 2017
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1734,7 +1720,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 132. Faculty Perceptions Related to Teaching Online: A Starting Point for Designing Faculty Development Initiatives
+### 131. Faculty Perceptions Related to Teaching Online: A Starting Point for Designing Faculty Development Initiatives
 - **Autores:** Shelly WALTERS, Kenda S. GROVER, Ronna C. TURNER, Jackson C. ALEXANDER
 - **Ano:** 2017
 - **Publicação / Veículo:** Turkish Online Journal of Distance Education
@@ -1747,20 +1733,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 133. Preparing and Applying for a Teaching-Focused Faculty Position
-- **Autores:** Geraldine L. Palmer
-- **Ano:** 2017
-- **Publicação / Veículo:** Oxford Scholarship Online
-- **DOI:** 10.1093/acprof:oso/9780190457938.003.0018
-- **Link / Fonte Directa:** [https://doi.org/10.1093/acprof:oso/9780190457938.003.0018](https://doi.org/10.1093/acprof:oso/9780190457938.003.0018)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> <p>With a dose of humor, the author of this chapter chronicles her journey as she searched for a full-time faculty position at local and national colleges and universities after receiving her PhD in community psychology. The search provided excellent first-hand experience that the author shares with readers and includes information about the process, highlighting concrete tools that are needed to be successful. She covers the importance of creating an effective curriculum vitae, teaching statement, and cover letter to land your first interview; how to be more tech savvy, mastering interviews via video conferencing software, such as Skype and Google Hang-Out; and why it is essential to get input on the highly important <italic>job talk</italic> from prospective academic colleagues. This chapter delivers a sense of the climate and process of entering the higher education market, while leaving the reader with hope for securing that sought-after faculty position.</p>
-
----
-
-### 134. ACESSIBILIDADE NA FORMAÇÃO DE PROFESSORES-AUTORES DE MATERIAL DIDÁTICO-DIGITAL PARA A EAD: UM TRABALHO COM DEFICIENTES VISUAIS
+### 132. ACESSIBILIDADE NA FORMAÇÃO DE PROFESSORES-AUTORES DE MATERIAL DIDÁTICO-DIGITAL PARA A EAD: UM TRABALHO COM DEFICIENTES VISUAIS
 - **Autores:** DÉBORA HISSA
 - **Ano:** 2017
 - **Publicação / Veículo:** Entremeios, Revista de Estudos do Discurso
@@ -1773,7 +1746,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 135. Práticas Docentes Diferenciadoras em EaD: Integrando as Novas Tecnologias aos Ambientes Virtuais de Aprendizagem
+### 133. Práticas Docentes Diferenciadoras em EaD: Integrando as Novas Tecnologias aos Ambientes Virtuais de Aprendizagem
 - **Autores:** Maria Helena Cavalcanti da Silva Belchior, Ana Maria Marques Palagi
 - **Ano:** 2017
 - **Publicação / Veículo:** EaD em Foco
@@ -1786,46 +1759,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 136. CONECÇÕES PARA FORMAÇÃO DOCENTE NO TOCANTINS: CONTRIBUTOS DA EDUCAÇÃO A DISTÂNCIA
-- **Autores:** Maria Pereira da Silva Neta, Nadia Flausino Vieira Borges, Aldízia Carneiro de Araújo, Simone Lima de Arruda Irigon, Elisiane Fernandes da S. S. Andrade, Marcia Flausino Vieira Alves
-- **Ano:** 2016
-- **Publicação / Veículo:** 
-- **DOI:** N/A
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/2e11870ca49dd7927c37b84a72f2a12f84c1d93d](https://www.semanticscholar.org/paper/2e11870ca49dd7927c37b84a72f2a12f84c1d93d)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> Resumo não disponível na base Semantic Scholar.
-
----
-
-### 137. PROGRAMA DE FORMAÇÃO ONLINE DE MENTORES: UMA INICIATIVA DE DESENVOLVIMENTO PROFISSIONAL DOCENTE
-- **Autores:** D. C. Massetto, Paula Grizzo Gobato, Fabiana Vigo
-- **Ano:** 2016
-- **Publicação / Veículo:** 
-- **DOI:** N/A
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/c3d07c0f10d910455e087c130af1f74b693cf9d5](https://www.semanticscholar.org/paper/c3d07c0f10d910455e087c130af1f74b693cf9d5)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> Resumo não disponível na base Semantic Scholar.
-
----
-
-### 138. OPTIMALISASI PENGEMBANGAN BLENDED LEARNING BERBASIS MOODLE UNTUK MATAKULIAH MIKROBIOLOGI OPTIMIZATION DEVELOPMENT BASED BLENDED LEARNING MOODLE COURSE FOR MICROBIOLOGY
-- **Autores:** Permata Ika Hidayati
-- **Ano:** 2016
-- **Publicação / Veículo:** Jurnal Inspirasi Pendidikan
-- **DOI:** 10.21067/jip.v6i2.1328
-- **Link / Fonte Directa:** [https://doi.org/10.21067/jip.v6i2.1328](https://doi.org/10.21067/jip.v6i2.1328)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> Resumo não disponível via API Crossref.
-
----
-
-### 139. Evaluation of the use of MOODLE-based e-learning for faculty development in Emergency Medicine
+### 134. Evaluation of the use of MOODLE-based e-learning for faculty development in Emergency Medicine
 - **Autores:** Mohamed Abdelkader Qotb, Saleem Farook
 - **Ano:** 2016
 - **Publicação / Veículo:** Journal of Emergency Medicine, Trauma and Acute Care
@@ -1864,7 +1798,20 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 140. Using the IWB in an Early Years Mathematics Classroom: An Application of the TPACK Framework
+### 135. OPTIMALISASI PENGEMBANGAN BLENDED LEARNING BERBASIS MOODLE UNTUK MATAKULIAH MIKROBIOLOGI OPTIMIZATION DEVELOPMENT BASED BLENDED LEARNING MOODLE COURSE FOR MICROBIOLOGY
+- **Autores:** Permata Ika Hidayati
+- **Ano:** 2016
+- **Publicação / Veículo:** Jurnal Inspirasi Pendidikan
+- **DOI:** 10.21067/jip.v6i2.1328
+- **Link / Fonte Directa:** [https://doi.org/10.21067/jip.v6i2.1328](https://doi.org/10.21067/jip.v6i2.1328)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> Resumo não disponível via API Crossref.
+
+---
+
+### 136. Using the IWB in an Early Years Mathematics Classroom: An Application of the TPACK Framework
 - **Autores:** Tracey Muir, Rosemary Callingham, Kim Beswick
 - **Ano:** 2016
 - **Publicação / Veículo:** Journal of Digital Learning in Teacher Education
@@ -1877,7 +1824,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 141. TEACHING ADULT LEARNERS ONLINE- A PROFESSIONAL DEVELOPMENT PROGRAM FOR ONLINE FACULTY AND INSTRUCTORS
+### 137. TEACHING ADULT LEARNERS ONLINE- A PROFESSIONAL DEVELOPMENT PROGRAM FOR ONLINE FACULTY AND INSTRUCTORS
 - **Autores:** Marie Bountrogianni
 - **Ano:** 2016
 - **Publicação / Veículo:** ICERI proceedings
@@ -1890,7 +1837,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 142. Ambientes Virtuais de Aprendizagem (AVAs) como ferramentas de apoio em Ambientes Complexos de Aprendizagem (ACAs)
+### 138. Ambientes Virtuais de Aprendizagem (AVAs) como ferramentas de apoio em Ambientes Complexos de Aprendizagem (ACAs)
 - **Autores:** Diego De Oliveira Martins, Simone Aparecida Tiziotto, Edson Walmir Cazarini
 - **Ano:** 2016
 - **Publicação / Veículo:** Revista Brasileira de Aprendizagem Aberta e a Distância
@@ -1903,7 +1850,52 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 143. Curadoria digital: proposta de um modelo para curadoria digital em ambientes big data baseado numa abordagem semi-automática para a seleção de objetos digitais
+### 139. MOOC DE REDAÇÃO OFICIAL EM LIBREOFFICE WRITER
+- **Autores:** Liliane Silveira Bonorino
+- **Ano:** 2016
+- **Publicação / Veículo:** reponame:Biblioteca Digital de Teses e Dissertações do UFSM
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/91243af92a5b6c3f3c82f92ded7a49508c8d09f3](https://www.semanticscholar.org/paper/91243af92a5b6c3f3c82f92ded7a49508c8d09f3)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Esta dissertacao foi desenvolvida no Programa de Pos-Graduacao em Tecnologias
+Educacionais em Rede, Mestrado Profissional na Linha de Pesquisa de Desenvolvimento de
+Tecnologias Educacionais em Rede. Objetiva-se inovar na oferta de formacao mediada pelas
+Tecnologias Educacionais em Rede (TER) atraves de um MOOC (Massive Open Online
+Courses - Cursos On-line Abertos e Massivos), pela plataforma Moodle (Modular Object
+Oriented Dynamic Learning Enviroment). Esta pesquisa se justifica pelo fato de que valoriza
+a formacao profissional em rede, promovendo-a pela modalidade de Educacao a Distância
+(EAD). Para o desenvolvimento deste trabalho, adotou-se a pesquisa-acao, que implicou na
+realizacao de uma formacao profissional via MOOC para o melhoramento da producao de
+documentos oficiais em Libreoficce Writer. O produto produzido foi o Material Didatico para
+o MOOC o qual foi implementado em duas fases: 1) modulo-piloto, a fim de verificar se a
+organizacao didatico-metodologica do curso estava bem encaminhada para a realizacao do
+curso; e, 2) MOOC, com vistas a promover nao so a formacao profissional, mas tambem o
+aprimoramento de conhecimentos acerca da redacao oficial em LibreOfffice Writer. Apos a
+analise dos dados coletados no modulo-piloto, constatou-se que o material didatico e a
+estrategia adotada para abordar a redacao oficial em LibreOffice Writer foram compreendidos
+e estavam de acordo com as necessidades de formacao dos envolvidos. Da analise dos dados
+obtidos na pesquisa de avaliacao do MOOC e do seu material didatico hipermidia, percebeuse
+que ambos proporcionaram processo de ensino-aprendizagem mediado pelas tecnologias
+educacionais em rede, com vistas a promover nao so a formacao profissional, mas tambem o
+aprimoramento de conhecimentos acerca da redacao oficial em LibreOfffice Writer.
+Considerou-se que os objetivos propostos foram contemplados na seguinte medida: o de
+ promover a formacao profissional em rede atraves de um MOOC de redacao de textos
+oficiais em LibreOffice Writer, com material didatico hipermidia bem-sucedido, visto que foi
+promovida uma formacao em rede considerada pelos cursistas como excelente; 2) o de
+ disseminar e incentivar a integracao do LibreOffice Writer as praticas profissionais foi
+atingido de forma satisfatoria, uma vez que os cursistas manifestaram interesse em integrar
+este programa as suas praticas; e 3) o de explorar o potencial do LibreOffice Writer para a
+producao de textos por meio de material didatico hipermidia foi bem-sucedido, dado que os
+cursistas o consideraram otimo. Portanto, MOOC, expande a oferta de formacao mediada por
+tecnologias educacionais em rede, que, alem de possibilitar o acesso a um grande numero de
+participantes, e uma ferramenta potencializadora para, atraves da pratica da liberdade, inovar
+a formacao profissional em rede.
+
+---
+
+### 140. Curadoria digital: proposta de um modelo para curadoria digital em ambientes big data baseado numa abordagem semi-automática para a seleção de objetos digitais
 - **Autores:** Moisés Lima Dutra, Douglas Dyllon Jeronimo de Macedo
 - **Ano:** 2016
 - **Publicação / Veículo:** Informação &amp; Informação
@@ -1916,7 +1908,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 144. O Docente como Formacao em Administracao Frente as TICs
+### 141. O Docente como Formacao em Administracao Frente as TICs
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1929,7 +1921,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 145. O Docente com Formacao em Administracao Frente as TICs
+### 142. O Docente com Formacao em Administracao Frente as TICs
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1942,20 +1934,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 146. A importância das ferramentas, recursos e mídias na formação continuada de tutores de Geografia na EaD
-- **Autores:** Ricardo Santos de Almeida
-- **Ano:** 2015
-- **Publicação / Veículo:** 
-- **DOI:** 10.4025/urutágua.v0i32.26053
-- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/34039f748e75885bff7db14381d0b4325f980dad](https://www.semanticscholar.org/paper/34039f748e75885bff7db14381d0b4325f980dad)
-- **Base Indexadora:** Semantic Scholar
-
-> **Resumo / Abstract:**
-> Resumo não disponível na base Semantic Scholar.
-
----
-
-### 147. Exploratorio Colaborativo e Aberto MOOCs uma nova metodologia na educacao a distancia
+### 143. Exploratorio Colaborativo e Aberto MOOCs uma nova metodologia na educacao a distancia
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1968,7 +1947,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 148. O Impacto da Evolucao Tecnologica na Modalidade Escolhida
+### 144. O Impacto da Evolucao Tecnologica na Modalidade Escolhida
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1981,7 +1960,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 149. Conhecimento Tecnologia Formacao de Professores
+### 145. Conhecimento Tecnologia Formacao de Professores
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -1994,7 +1973,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 150. Conhecimento Tecnologia Formacao de Professores o que esperar daqui 30 anos
+### 146. Conhecimento Tecnologia Formacao de Professores o que esperar daqui 30 anos
 - **Autores:** Jose Dutra
 - **Ano:** 2015
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2007,7 +1986,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 151. TPACK Framework
+### 147. TPACK Framework
 - **Autores:** Chris Campbell, Aisha Al-Harthi, Arafeh Karimi
 - **Ano:** 2015
 - **Publicação / Veículo:** ASCILITE Publications
@@ -2020,7 +1999,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 152. A Polifonia no Discurso Pedagógico do Tutor
+### 148. A Polifonia no Discurso Pedagógico do Tutor
 - **Autores:** Maira Penteado
 - **Ano:** 2015
 - **Publicação / Veículo:** EaD em Foco
@@ -2033,7 +2012,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 153. Envelhecimento e os desafios à investigação e intervenção: processos de infoexclusão e infointervenção
+### 149. Envelhecimento e os desafios à investigação e intervenção: processos de infoexclusão e infointervenção
 - **Autores:** , Adriano Pasqualotti, Henrique Gil, , Maria Carvalho, 
 - **Ano:** 2015
 - **Publicação / Veículo:** Ciências e Políticas Públicas / Public Sciences &amp; Policies
@@ -2046,7 +2025,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 154. Ressignificação da Prática Docente na perspectiva dos Recursos Educacionais Abertos
+### 150. Ressignificação da Prática Docente na perspectiva dos Recursos Educacionais Abertos
 - **Autores:** Josevânia Teixeira Guedes, Hortência de Abreu Gonçalves, Marilene Batista da Cruz Nascimento
 - **Ano:** 2015
 - **Publicação / Veículo:** Revista EDaPECI
@@ -2059,7 +2038,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 155. A UTILIZAÇÃO DA FERRAMENTA MOODLE EM CURSOS PRESENCIAIS EM UMA INSTITUIÇÃO DE ENSINO SUPERIOR
+### 151. A UTILIZAÇÃO DA FERRAMENTA MOODLE EM CURSOS PRESENCIAIS EM UMA INSTITUIÇÃO DE ENSINO SUPERIOR
 - **Autores:** Fabiana Sesmilo de Camargo Caetano, Isabela Quaglia
 - **Ano:** 2014
 - **Publicação / Veículo:** EaD em Foco
@@ -2072,7 +2051,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 156. Competencias docentes en educación superior
+### 152. Competencias docentes en educación superior
 - **Autores:** Lina Aleida Alcántar Hernández
 - **Ano:** 2014
 - **Publicação / Veículo:** DOCERE
@@ -2085,7 +2064,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 157. RECURSOS EDUCACIONAIS ABERTOS NA FORMAÇÃO DO PROFESSOR-AUTOR: REFLEXÕES TEÓRICAS
+### 153. RECURSOS EDUCACIONAIS ABERTOS NA FORMAÇÃO DO PROFESSOR-AUTOR: REFLEXÕES TEÓRICAS
 - **Autores:** Joyce Vieira Fettermann
 - **Ano:** 2014
 - **Publicação / Veículo:** Linkscienceplace
@@ -2098,7 +2077,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 158. DESENVOLVIMENTO DE CENÁRIOS PARA AVALIAÇÃO DE AVISOS DE SEGURANÇA EM AMBIENTES VIRTUAIS
+### 154. DESENVOLVIMENTO DE CENÁRIOS PARA AVALIAÇÃO DE AVISOS DE SEGURANÇA EM AMBIENTES VIRTUAIS
 - **Autores:** Reginaldo Schiavini
 - **Ano:** 2014
 - **Publicação / Veículo:** Anais do 11º Congresso Brasileiro de Pesquisa e Desenvolvimento em Design
@@ -2111,7 +2090,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 159. PRÁTICAS CULTURAIS DA LEITURA E FORMACAO DE PROFESSOR NOS MEMORIAIS DE FORMACAO.
+### 155. PRÁTICAS CULTURAIS DA LEITURA E FORMACAO DE PROFESSOR NOS MEMORIAIS DE FORMACAO.
 - **Autores:** Araujo Castilho Teno
 - **Ano:** 2013
 - **Publicação / Veículo:** Revista Profissão Docente
@@ -2124,7 +2103,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 160. Development and Use of Moodle for Online Student Support
+### 156. Development and Use of Moodle for Online Student Support
 - **Autores:** Moira Hobbs, Yvonne Hynson
 - **Ano:** 2013
 - **Publicação / Veículo:** Studies in Self-Access Learning Journal
@@ -2137,7 +2116,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 161. A FERRAMENTA CHAT COMO RECURSO PEDAGÓGICO NO ENSINO DE FÁSICA
+### 157. A FERRAMENTA CHAT COMO RECURSO PEDAGÓGICO NO ENSINO DE FÁSICA
 - **Autores:** José Ailton Forte Feitosa, Ivoneide Pinheiro De Lima, Francisco Herbert Lima Vasconcelos
 - **Ano:** 2013
 - **Publicação / Veículo:** EaD em Foco
@@ -2150,7 +2129,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 162. DIAGNOSTICO DA EDUCACAO AMBIENTAL E GEOGRAFIA NO ENSINO MÉDIO
+### 158. DIAGNOSTICO DA EDUCACAO AMBIENTAL E GEOGRAFIA NO ENSINO MÉDIO
 - **Autores:** Elisa Regina da Cruz, Drª Zilda Fátima Mariano, Jane Karla Alves Cardoso
 - **Ano:** 2013
 - **Publicação / Veículo:** Itinerarius Reflectionis
@@ -2163,7 +2142,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 163. DEVELOPING AND IMPLEMENTING COMPREHENSIVE STUDENT SUPPORT SERVICES FOR ONLINE STUDENTS
+### 159. DEVELOPING AND IMPLEMENTING COMPREHENSIVE STUDENT SUPPORT SERVICES FOR ONLINE STUDENTS
 - **Autores:** Marwin Britto, Susan Rush
 - **Ano:** 2013
 - **Publicação / Veículo:** Online Learning
@@ -2176,7 +2155,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 164. AMBIENTES VIRTUAIS DE APRENDIZAGEM COMO FERRAMENTAS DE APOIO EM CURSOS PRESENCIAIS E A DISTÂNCIA
+### 160. AMBIENTES VIRTUAIS DE APRENDIZAGEM COMO FERRAMENTAS DE APOIO EM CURSOS PRESENCIAIS E A DISTÂNCIA
 - **Autores:** Lélis Maia de Brito, José Renato Giuberti Júnior, Silvane Guimarães Silva Gomes, João Batista Mota
 - **Ano:** 2013
 - **Publicação / Veículo:** RENOTE
@@ -2189,7 +2168,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 165. i-collaboration 3.0: um framework de apoio ao desenvolvimento de Ambientes Distribuídos de Aprendizagem Sensíveis ao Contexto
+### 161. i-collaboration 3.0: um framework de apoio ao desenvolvimento de Ambientes Distribuídos de Aprendizagem Sensíveis ao Contexto
 - **Autores:** Eduardo A. Oliveira, Patrícia Tedesco
 - **Ano:** 2013
 - **Publicação / Veículo:** Workshops do Congresso Brasileiro de Informática na Educação
@@ -2202,7 +2181,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 166. Uma Experiência de Formação de Professores para o Uso das Ferramentas Digitais e Criação de Redes de Aprendência
+### 162. Uma Experiência de Formação de Professores para o Uso das Ferramentas Digitais e Criação de Redes de Aprendência
 - **Autores:** Selma Bessa Sales, Alba Liarth da Cruz
 - **Ano:** 2012
 - **Publicação / Veículo:** Anais do XVIII Workshop de Informática na Escola (WIE 2012)
@@ -2215,7 +2194,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 167. Faculty Development for Online Teaching as a Catalyst for Change
+### 163. Faculty Development for Online Teaching as a Catalyst for Change
 - **Autores:** Carol A. McQuiggan
 - **Ano:** 2012
 - **Publicação / Veículo:** Online Learning
@@ -2228,7 +2207,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 168. Introduction to the Special Issue: Faculty Development for Online Teaching
+### 164. Introduction to the Special Issue: Faculty Development for Online Teaching
 - **Autores:** Stephanie J. Jones, Katrina A. Meyer
 - **Ano:** 2012
 - **Publicação / Veículo:** Online Learning
@@ -2241,7 +2220,20 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 169. Widening Participation in Higher Education through Open Educational Resources
+### 165. LIVRO EM PUBLICAÇÃO DIGITAL INTERATIVA PARA EAD
+- **Autores:** Daiany Berenice Zago, Paulo Roberto Montanaro, J. Otsuka
+- **Ano:** 2012
+- **Publicação / Veículo:** 
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/c463196d9ad7aaff73d7ac2e9b3076f8a3c59055](https://www.semanticscholar.org/paper/c463196d9ad7aaff73d7ac2e9b3076f8a3c59055)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Resumo não disponível na base Semantic Scholar.
+
+---
+
+### 166. Widening Participation in Higher Education through Open Educational Resources
 - **Autores:** Andy Lane
 - **Ano:** 2012
 - **Publicação / Veículo:** Advances in Higher Education and Professional Development
@@ -2254,7 +2246,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 170. Using Moodle to Enhance Online Classrooms and Professional Development
+### 167. Using Moodle to Enhance Online Classrooms and Professional Development
 - **Autores:** Jonathan Dinaro
 - **Ano:** 2011
 - **Publicação / Veículo:** Distance Learning
@@ -2267,7 +2259,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 171. Cloud-Based Technologies: Faculty Development, Support, and Implementation
+### 168. Cloud-Based Technologies: Faculty Development, Support, and Implementation
 - **Autores:** Veronica Diaz
 - **Ano:** 2011
 - **Publicação / Veículo:** Online Learning
@@ -2280,7 +2272,33 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 172. O Ensino Superior na sociedade do capital virtualizado e da individualizacao social pos-moderna: implicacoes para a producao e difusao do conhecimento em educacao
+### 169. Contrução De Material Educacional Digital Para Apoio E Integração De Ações De Ensino-pesquisa-extensão AtravÉs Do Moodle
+- **Autores:** Fernanda Fernandes Miranda, A. Brandão, R. Soares, Marysabel Pinto Telis
+- **Ano:** 2011
+- **Publicação / Veículo:** 
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/df478fdba4eefa5bb446399a68a63eeddeff5d14](https://www.semanticscholar.org/paper/df478fdba4eefa5bb446399a68a63eeddeff5d14)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Resumo não disponível na base Semantic Scholar.
+
+---
+
+### 170. Jornada EaD do Campus São Gabriel
+- **Autores:** Marianne Macedo Goulart Dambrós, Josiane Martins Flores, Valdir Marcos Stefenon
+- **Ano:** 2011
+- **Publicação / Veículo:** 
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/f00fec90dbd5fec9e299c06d8d95fec6d60bc580](https://www.semanticscholar.org/paper/f00fec90dbd5fec9e299c06d8d95fec6d60bc580)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Resumo não disponível na base Semantic Scholar.
+
+---
+
+### 171. O Ensino Superior na sociedade do capital virtualizado e da individualizacao social pos-moderna: implicacoes para a producao e difusao do conhecimento em educacao
 - **Autores:** Regina Célia Linhares HOSTINS
 - **Ano:** 2010
 - **Publicação / Veículo:** Praxis Educativa
@@ -2290,6 +2308,19 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 > **Resumo / Abstract:**
 > Resumo não disponível via API Crossref.
+
+---
+
+### 172. Produção de Material Digital Para O Curso deEspecialização Para Professores de Matemática
+- **Autores:** M. Barreto, Mariângela Torre Dias
+- **Ano:** 2010
+- **Publicação / Veículo:** 
+- **DOI:** N/A
+- **Link / Fonte Directa:** [https://www.semanticscholar.org/paper/5c50477f5f1da4cb850217d086f46be598c302e3](https://www.semanticscholar.org/paper/5c50477f5f1da4cb850217d086f46be598c302e3)
+- **Base Indexadora:** Semantic Scholar
+
+> **Resumo / Abstract:**
+> Resumo não disponível na base Semantic Scholar.
 
 ---
 
@@ -2397,7 +2428,20 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 181. UCF’S EXEMPLARY FACULTY SUPPORT: AN INSTITUTIONALIZED ECOSYSTEM
+### 181. HOW BLENDED LEARNING CAN SUPPORT A FACULTY DEVELOPMENT COMMUNITY OF INQUIRY
+- **Autores:** Norman Vaughan, Randy Garrison
+- **Ano:** 2006
+- **Publicação / Veículo:** Online Learning
+- **DOI:** 10.24059/olj.v10i4.1750
+- **Link / Fonte Directa:** [https://doi.org/10.24059/olj.v10i4.1750](https://doi.org/10.24059/olj.v10i4.1750)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> This study focuses on understanding the social and teaching presence required to create a blended faculty development community of inquiry. Garrison, Anderson and Archer’s community of inquiry framework was used to analyze transcripts from the face-to-face and online sessions of a faculty learning community focused on blended learning course redesign. All three categories of social and teaching presence were detected in both forms of transcripts. The pattern of social comments changed considerably over time within the online discussion forum. The frequency of comments reflecting affective and open communication decreased while those with group cohesion increased dramatically. A similar trend was not observed within the face-to-face transcripts. In terms of teaching presence, the percentage of comments coded for design &amp; organization and facilitating discourse decreased over time in both the face-to-face and online transcripts while comments containing an element of direct instruction increased considerably.
+
+---
+
+### 182. UCF’S EXEMPLARY FACULTY SUPPORT: AN INSTITUTIONALIZED ECOSYSTEM
 - **Autores:** Barbara E. Truman
 - **Ano:** 2004
 - **Publicação / Veículo:** Online Learning
@@ -2410,7 +2454,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 182. Formas de interação entre humanos e dados digitais em ambientes virtuais
+### 183. Formas de interação entre humanos e dados digitais em ambientes virtuais
 - **Autores:** Luiz Antônio Rocha
 - **Ano:** 2004
 - **Publicação / Veículo:** Horizontes Antropológicos
@@ -2423,7 +2467,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 183. Formaçao do educador e educaçao holistica para a nao-violencia :
+### 184. Formaçao do educador e educaçao holistica para a nao-violencia :
 - **Autores:** Eliane Quadros de Castro
 - **Ano:** 2003
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2436,7 +2480,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 184. Teacher education at the Open University
+### 185. Teacher education at the Open University
 - **Autores:** Autores não informados
 - **Ano:** 2002
 - **Publicação / Veículo:** Distance Education for Teacher Training
@@ -2449,7 +2493,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 185. The Zimbabwe Integrated Teacher Education Course
+### 186. The Zimbabwe Integrated Teacher Education Course
 - **Autores:** Autores não informados
 - **Ano:** 2002
 - **Publicação / Veículo:** Distance Education for Teacher Training
@@ -2462,7 +2506,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 186. Tanzania’s distance-teaching programme
+### 187. Tanzania’s distance-teaching programme
 - **Autores:** Autores não informados
 - **Ano:** 2002
 - **Publicação / Veículo:** Distance Education for Teacher Training
@@ -2475,7 +2519,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 187. Distance Education for Teacher Training
+### 188. Distance Education for Teacher Training
 - **Autores:** Autores não informados
 - **Ano:** 2002
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2488,7 +2532,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 188. Radio Education in Nepal
+### 189. Radio Education in Nepal
 - **Autores:** Autores não informados
 - **Ano:** 2002
 - **Publicação / Veículo:** Distance Education for Teacher Training
@@ -2501,7 +2545,20 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 189. Sem título
+### 190. The costs
+- **Autores:** Autores não informados
+- **Ano:** 2002
+- **Publicação / Veículo:** Distance Education for Teacher Training
+- **DOI:** 10.4324/9780203038741-15
+- **Link / Fonte Directa:** [https://doi.org/10.4324/9780203038741-15](https://doi.org/10.4324/9780203038741-15)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> Resumo não disponível via API Crossref.
+
+---
+
+### 191. Sem título
 - **Autores:** Autores não informados
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2514,7 +2571,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 190. Discutindo o papel do feedback no ensino superior EAD sob a perspectiva docente
+### 192. Discutindo o papel do feedback no ensino superior EAD sob a perspectiva docente
 - **Autores:** Raísa Correa Fortes
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2527,7 +2584,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 191. Criação de material didático de robótica educacional para professores utilizando Tinkercad Circuitos e Arduino como ferramentas digitais
+### 193. Criação de material didático de robótica educacional para professores utilizando Tinkercad Circuitos e Arduino como ferramentas digitais
 - **Autores:** , Heloisa Vargas Megda de Oliveira, Marcela Sanae Honma
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2540,7 +2597,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 192. Sensibilização de futuros professores para a docência em Educação a Distância no ensino da leitura de textos digitais em língua francesa: o Moodle como espaço de formação inicial
+### 194. Sensibilização de futuros professores para a docência em Educação a Distância no ensino da leitura de textos digitais em língua francesa: o Moodle como espaço de formação inicial
 - **Autores:** Valkiria Santos
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2553,7 +2610,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 193. Sintaxe Espacial e tridimensionalidade: Estudo exploratório de ferramentas digitais
+### 195. Sintaxe Espacial e tridimensionalidade: Estudo exploratório de ferramentas digitais
 - **Autores:** , Renato Ferreira de Sá
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2566,7 +2623,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 194. METODOLOGIA E PESQUISA CIENTIFICO-TECNOLOGICA NA EDUCACAO PROFISSIONAL
+### 196. METODOLOGIA E PESQUISA CIENTIFICO-TECNOLOGICA NA EDUCACAO PROFISSIONAL
 - **Autores:** Eduardo Araujo Silva, Cristoffer Peres Carneiro de Oliveira, Ricardo Slavov Slavov, Celio Aparecido Garcia
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** 19th CONTECSI International Conference on Information Systems and Technology Management
@@ -2579,7 +2636,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 195. COMPETENCIAS DIGITAIS NA EDUCACAO SUPERIOR TECNOLOGICA NO CENARIO DA QUARTA REVOLUCAO INDUSTRIAL - RESULTADOS
+### 197. COMPETENCIAS DIGITAIS NA EDUCACAO SUPERIOR TECNOLOGICA NO CENARIO DA QUARTA REVOLUCAO INDUSTRIAL - RESULTADOS
 - **Autores:** MARCUS VINICIUS SOUZA
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** CONTECSI International Conference on Information Systems and Technology Management
@@ -2592,7 +2649,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 196. Docência na Educação Profissional e Tecnológica : influência da formação no processo ensino-aprendizagem
+### 198. Docência na Educação Profissional e Tecnológica : influência da formação no processo ensino-aprendizagem
 - **Autores:** Rosilândia Ferreira de Aguiar
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2605,7 +2662,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 197. Fundraising
+### 199. Fundraising
 - **Autores:** Autores não informados
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Distance education for teacher training
@@ -2618,7 +2675,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 198. The human factor
+### 200. The human factor
 - **Autores:** Autores não informados
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Distance education for teacher training
@@ -2631,7 +2688,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 199. Colour and other factors
+### 201. Colour and other factors
 - **Autores:** Autores não informados
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Distance education for teacher training
@@ -2644,20 +2701,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 200. Professional appointments
-- **Autores:** Autores não informados
-- **Ano:** Ano desconhecido
-- **Publicação / Veículo:** Distance education for teacher training
-- **DOI:** 10.4324/9780203304075_chapter_9
-- **Link / Fonte Directa:** [https://doi.org/10.4324/9780203304075_chapter_9](https://doi.org/10.4324/9780203304075_chapter_9)
-- **Base Indexadora:** Crossref
-
-> **Resumo / Abstract:**
-> Resumo não disponível via API Crossref.
-
----
-
-### 201. WIP: Faculty Adoption of Active Learning in Online Environments: An Application of the Concerns-Based Adoption Model
+### 202. WIP: Faculty Adoption of Active Learning in Online Environments: An Application of the Concerns-Based Adoption Model
 - **Autores:** Xiaping Li, Lea Marlor, Laura Carroll, Cynthia Finelli
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** 2022 ASEE Annual Conference &amp; Exposition Proceedings
@@ -2670,7 +2714,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 202. A Concerns-Based Adoption Model Study of University Instructors Engaged in Faculty Development for Enhancing Learning With Technology
+### 203. A Concerns-Based Adoption Model Study of University Instructors Engaged in Faculty Development for Enhancing Learning With Technology
 - **Autores:** , James Julius
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2683,7 +2727,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 203. Asynchronous Learning and Faculty Development
+### 204. Asynchronous Learning and Faculty Development
 - **Autores:** Cynthia J. Benton
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Learning Tools and Teaching Approaches through ICT Advancements
@@ -2696,7 +2740,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 204. Faculty Professional Learning
+### 205. Faculty Professional Learning
 - **Autores:** Olga M. Alegre, Luis M. Villar
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Organizational Learning and Knowledge
@@ -2709,7 +2753,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 205. Faculty-Faculty Interactions in Online Learning Environments
+### 206. Faculty-Faculty Interactions in Online Learning Environments
 - **Autores:** Lydia Kyei-Blankson, Jared Keengwe
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Learning Tools and Teaching Approaches through ICT Advancements
@@ -2722,7 +2766,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 206. From “Sage on the Stage” to Facilitator of Learning
+### 207. From “Sage on the Stage” to Facilitator of Learning
 - **Autores:** Denise Passmore
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Teacher Training and Professional Development
@@ -2735,7 +2779,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 207. Factors Affecting the Adoption of Educational Technology
+### 208. Factors Affecting the Adoption of Educational Technology
 - **Autores:** G. Salter
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Online and Distance Learning
@@ -2748,7 +2792,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 208. Through the Eyes of Students and Faculty
+### 209. Through the Eyes of Students and Faculty
 - **Autores:** Maysaa Barakat, Debra N. Weiss-Randall
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Blended Learning
@@ -2761,7 +2805,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 209. Resistencia e praticas pedagogicas
+### 210. Resistencia e praticas pedagogicas
 - **Autores:** Teresa do Carmo Ferrari Bedendi
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2774,7 +2818,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 210. Alfabetização numa perspectiva critica
+### 211. Alfabetização numa perspectiva critica
 - **Autores:** Cintia Wolf do Amaral
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2787,7 +2831,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 211. Relatorios individuais de alunos
+### 212. Relatorios individuais de alunos
 - **Autores:** Vivian Bearzotti Pires
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2800,7 +2844,7 @@ Palavras-chave: Gamificação. Moodle. Motivação.
 
 ---
 
-### 212. AS PRATICAS PEDAGOGICAS DOCENTES NA ESCOLA ESTADUAL IRMÃ ASPÁSIA/PORTO NACIONAL/ TOCANTINS.
+### 213. AS PRATICAS PEDAGOGICAS DOCENTES NA ESCOLA ESTADUAL IRMÃ ASPÁSIA/PORTO NACIONAL/ TOCANTINS.
 - **Autores:** , Eliene Moura Alves
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2814,7 +2858,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 213. Cuidados com o corpo
+### 214. Cuidados com o corpo
 - **Autores:** Maura Hess Junqueira
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2827,7 +2871,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 214. As leituras nos discursos e nas praticas pedagogicas e sua relação com a constituição da identidade de professores
+### 215. As leituras nos discursos e nas praticas pedagogicas e sua relação com a constituição da identidade de professores
 - **Autores:** Ana Lucia de Campos Almeida
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2840,7 +2884,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 215. Historia das praticas pedagogicas e cultura escolar do Colegio Salesiano de Santa Teresa, Corumba-MS (1972-1987)
+### 216. Historia das praticas pedagogicas e cultura escolar do Colegio Salesiano de Santa Teresa, Corumba-MS (1972-1987)
 - **Autores:** Celeida Maria Costa de Souza e Silva
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2853,7 +2897,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 216. A influência do curso de extensão PROEPRE
+### 217. A influência do curso de extensão PROEPRE
 - **Autores:** Maria Luiza Fava Lopes Camargo de Assis
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2866,7 +2910,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 217. COMPETENCIAS EM SEGURANCA DA INFORMACAO NA EDUCACAO SUPERIOR NO BRASIL: AVALIACAO DOS CURSOS DE COMPUTACAO SOB A PERSPECTIVA DO ENADE
+### 218. COMPETENCIAS EM SEGURANCA DA INFORMACAO NA EDUCACAO SUPERIOR NO BRASIL: AVALIACAO DOS CURSOS DE COMPUTACAO SOB A PERSPECTIVA DO ENADE
 - **Autores:** Roberto Luiz Menezes Macias, Olga Satomi Yoshida
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** 19th CONTECSI International Conference on Information Systems and Technology Management
@@ -2879,7 +2923,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 218. O uso das tecnologias digitais da internet na educação superior. representações docentes - entre o formal e o informal, as marcas da presença do possível
+### 219. O uso das tecnologias digitais da internet na educação superior. representações docentes - entre o formal e o informal, as marcas da presença do possível
 - **Autores:** Marcos de Abreu Nery
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2892,7 +2936,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 219. Competências digitais de docentes do ensino superior
+### 220. Competências digitais de docentes do ensino superior
 - **Autores:** Lilian Saldanha Marroni
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2905,7 +2949,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 220. Toward Sustainable Integration of Digital Technology in Physical Education: A Teacher-Centered TAM–TPACK Framework for Instructional Design
+### 221. Toward Sustainable Integration of Digital Technology in Physical Education: A Teacher-Centered TAM–TPACK Framework for Instructional Design
 - **Autores:** Se-Won Park, Seung-Bae Lee, Kwang-Jea Sung
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2918,7 +2962,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 221. Narrowing the distance
+### 222. Narrowing the distance
 - **Autores:** Beth A. Rochefort
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2931,7 +2975,20 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 222. Letramento racial docente como compromisso formativo: entre saberes, práticas e políticas públicas
+### 223. An exploration of faculty transition to online teaching
+- **Autores:** Julie E. Golden
+- **Ano:** Ano desconhecido
+- **Publicação / Veículo:** Fonte/Revista não identificada
+- **DOI:** 10.17760/d20207762
+- **Link / Fonte Directa:** [https://doi.org/10.17760/d20207762](https://doi.org/10.17760/d20207762)
+- **Base Indexadora:** Crossref
+
+> **Resumo / Abstract:**
+> Resumo não disponível via API Crossref.
+
+---
+
+### 224. Letramento racial docente como compromisso formativo: entre saberes, práticas e políticas públicas
 - **Autores:** Sônia Maria Nolasco
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2944,7 +3001,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 223. Movimento da ação docente : recursos subjetivos na produção de saberes pedagógicos
+### 225. Movimento da ação docente : recursos subjetivos na produção de saberes pedagógicos
 - **Autores:** , Elisângela Duarte Almeida Mundim
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2957,7 +3014,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 224. Modelo de suporte a avaliação formativa baseado em Sistemas Multiagentes para Ambientes de EaD
+### 226. Modelo de suporte a avaliação formativa baseado em Sistemas Multiagentes para Ambientes de EaD
 - **Autores:** Joice Lee Otsuka
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2970,7 +3027,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 225. Material Didático-Pedagógico - Habilidade 01 - Suporte Básico de Vida em Pediatria
+### 227. Material Didático-Pedagógico - Habilidade 01 - Suporte Básico de Vida em Pediatria
 - **Autores:** Alexandre Lopes MIralha
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2983,7 +3040,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 226. Políticas de educação à distância, acessibilidade e tecnologias digitais aplicadas à educação em Angola e na África do Sul
+### 228. Políticas de educação à distância, acessibilidade e tecnologias digitais aplicadas à educação em Angola e na África do Sul
 - **Autores:** Eduardo Sala
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -2996,7 +3053,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 227. Qualidade do ensino a distancia em instituições de ensino superior na percepção de coordenadores e docentes
+### 229. Qualidade do ensino a distancia em instituições de ensino superior na percepção de coordenadores e docentes
 - **Autores:** Andrea Cristina Versuti
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3009,7 +3066,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 228. O ensino de filosofia da educação no contexto da educação a distancia
+### 230. O ensino de filosofia da educação no contexto da educação a distancia
 - **Autores:** Roseli Helena de Souza Salgado
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3022,7 +3079,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 229. Soluções tecnologicas para viabilizar o acesso do deficiente visual a educação a distancia no ensino superior
+### 231. Soluções tecnologicas para viabilizar o acesso do deficiente visual a educação a distancia no ensino superior
 - **Autores:** Jose Oscar Fontanini de Carvalho
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3035,7 +3092,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 230. Infrastructure Considerations for Online Learning: Student Faculty and Technical Support
+### 232. Infrastructure Considerations for Online Learning: Student Faculty and Technical Support
 - **Autores:** Cheryl A. Fisher
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Developing Online Learning Environments in Nursing Education
@@ -3048,7 +3105,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 231. O uso de ambientes virtuais de aprendizagem (AVA) como apoio ao ensino presencial no curso de enfermagem: uma análise à luz da teoria histórico-cultural de Vigotski
+### 233. O uso de ambientes virtuais de aprendizagem (AVA) como apoio ao ensino presencial no curso de enfermagem: uma análise à luz da teoria histórico-cultural de Vigotski
 - **Autores:** Regiane Sedenho de Morais
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3061,7 +3118,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 232. Extensão da Ferramenta de Apoio à Programação Paralela (F.A.P.P.) para ambientes paralelos virtuais.
+### 234. Extensão da Ferramenta de Apoio à Programação Paralela (F.A.P.P.) para ambientes paralelos virtuais.
 - **Autores:** Kalinka Regina Lucas Jaquie
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3074,7 +3131,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 233. APOIO ONLINE DE COMUNIDADES VIRTUAIS AO PORTADOR DE DIABETES MELLITUS: REVISÃO BIBLIOMÉTRICA
+### 235. APOIO ONLINE DE COMUNIDADES VIRTUAIS AO PORTADOR DE DIABETES MELLITUS: REVISÃO BIBLIOMÉTRICA
 - **Autores:** Delmo de Carvalho Alencar, Paulo Roberto Vasconcellos da Silva, Dárlinton Barbosa Feres Carvalho
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3087,7 +3144,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 234. Particionamento transparente de ambientes virtuais distribuidos
+### 236. Particionamento transparente de ambientes virtuais distribuidos
 - **Autores:** Marcos Alves
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3100,7 +3157,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 235. Tecnologias educacionais: possibilidades e desafios sob a perspectiva dos Recursos Educacionais Abertos
+### 237. Tecnologias educacionais: possibilidades e desafios sob a perspectiva dos Recursos Educacionais Abertos
 - **Autores:** Leonardo Bragança
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3113,7 +3170,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 236. Quimica das sensações
+### 238. Quimica das sensações
 - **Autores:** Carolina Godinho Retondo
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3126,7 +3183,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 237. A genese da composição de um material didatico para ensino-aprendizagem de portugues como segunda lingua
+### 239. A genese da composição de um material didatico para ensino-aprendizagem de portugues como segunda lingua
 - **Autores:** Liliana Gottheim
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3139,7 +3196,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 238. O DESIGNER COMO AGENTE ORGANIZACIONAL NA PRODUÇÃO MULTIDISCIPLINAR DE MATERIAL DIDÁTICO PARA EAD
+### 240. O DESIGNER COMO AGENTE ORGANIZACIONAL NA PRODUÇÃO MULTIDISCIPLINAR DE MATERIAL DIDÁTICO PARA EAD
 - **Autores:** CID MOREIRA BOECHAT
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3152,7 +3209,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 239. Formação de professores de Biologia, material didatico e conhecimento escolar
+### 241. Formação de professores de Biologia, material didatico e conhecimento escolar
 - **Autores:** Gilberto Luiz de Azevedo Borges
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3165,7 +3222,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 240. A compreensão do texto didatico de ciencias
+### 242. A compreensão do texto didatico de ciencias
 - **Autores:** Anatalia Borges Azevedo
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3178,7 +3235,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 241. Sistema modular didatico para transdução e medidas de grandezas biomedicas
+### 243. Sistema modular didatico para transdução e medidas de grandezas biomedicas
 - **Autores:** Carlos Carneiro Bottesi
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3191,7 +3248,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 242. Desenvolvimento de bancada didatico-experimental de baixo custo para aplicações em controle ativo de vibrações
+### 244. Desenvolvimento de bancada didatico-experimental de baixo custo para aplicações em controle ativo de vibrações
 - **Autores:** Mauricio Jose Amorim
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3204,7 +3261,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 243. Factors influencing faculty innovation and adoption of open educational
+### 245. Factors influencing faculty innovation and adoption of open educational
                     resources in higher education
 - **Autores:** Virginia Coleman-Prisco
 - **Ano:** Ano desconhecido
@@ -3218,7 +3275,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 244. Embracing the Promise of Open Educational Resources: Faculty Insights and Implications in Higher Education
+### 246. Embracing the Promise of Open Educational Resources: Faculty Insights and Implications in Higher Education
 - **Autores:** Abdulrahman Al-Zahrani
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3232,7 +3289,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 245. Open Educational Engineering Resources: Adoption and Development by Faculty and Instructors
+### 247. Open Educational Engineering Resources: Adoption and Development by Faculty and Instructors
 - **Autores:** Chelsea Leachman, Talea Anderson
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** 2017 ASEE Annual Conference &amp; Exposition Proceedings
@@ -3245,7 +3302,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 246. Labirinto : serviço de curadoria de literatura brasileira para jovens do ensino médio
+### 248. Labirinto : serviço de curadoria de literatura brasileira para jovens do ensino médio
 - **Autores:** Guilherme Oliveira da Silva Santos
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3258,7 +3315,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 247. ExpoGEO: curadoria digital para o ensino e aprendizagem geográfica
+### 249. ExpoGEO: curadoria digital para o ensino e aprendizagem geográfica
 - **Autores:** Rodrigo Menezes
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3271,7 +3328,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 248. Geoensine: Uma proposta de curadoria de conteúdos digitais e formação colaborativa de professores de geografia
+### 250. Geoensine: Uma proposta de curadoria de conteúdos digitais e formação colaborativa de professores de geografia
 - **Autores:** Daniela Almeida
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3284,12 +3341,12 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 249. DESENVOLVIMENTO DE METODOLOGIAS PARA O ENSINO DE BIOLOGIA COM INCLUSÃO DE TECNOLOGIAS DIGITAIS NO ENSINO PÚBLICO
-- **Autores:** , Ivancia Donato de Luna Sousa
+### 251. Modelos digitais: o ensino de sistemas estruturais para Arquitetura e Urbanismo
+- **Autores:** Ivanóe De Cunto
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
-- **DOI:** 10.29327/4428169
-- **Link / Fonte Directa:** [https://doi.org/10.29327/4428169](https://doi.org/10.29327/4428169)
+- **DOI:** 10.11606/t.102.2016.tde-30062016-103945
+- **Link / Fonte Directa:** [https://doi.org/10.11606/t.102.2016.tde-30062016-103945](https://doi.org/10.11606/t.102.2016.tde-30062016-103945)
 - **Base Indexadora:** Crossref
 
 > **Resumo / Abstract:**
@@ -3297,7 +3354,7 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 250. Avaliação discente em cursos de graduação a distância mediados por ambientes virtuais de aprendizagem : necessidade de informações dos docentes na visão de especialistas europeus e brasileiros
+### 252. Avaliação discente em cursos de graduação a distância mediados por ambientes virtuais de aprendizagem : necessidade de informações dos docentes na visão de especialistas europeus e brasileiros
 - **Autores:** , José Leonardo Oliveira Lima
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
@@ -3310,12 +3367,12 @@ O presente trabalho objetiva analisar as práticas pedagógicas que se efetivam 
 
 ---
 
-### 251. Dimensões de qualidade em ambientes virtuais de aprendizagem
-- **Autores:** Silvio Carvalho Neto
+### 253. Maquinas virtuais em ambientes seguros
+- **Autores:** Arthur Bispo de Castro
 - **Ano:** Ano desconhecido
 - **Publicação / Veículo:** Fonte/Revista não identificada
-- **DOI:** 10.11606/t.12.2009.tde-02022010-123846
-- **Link / Fonte Directa:** [https://doi.org/10.11606/t.12.2009.tde-02022010-123846](https://doi.org/10.11606/t.12.2009.tde-02022010-123846)
+- **DOI:** 10.47749/t/unicamp.2006.420825
+- **Link / Fonte Directa:** [https://doi.org/10.47749/t/unicamp.2006.420825](https://doi.org/10.47749/t/unicamp.2006.420825)
 - **Base Indexadora:** Crossref
 
 > **Resumo / Abstract:**
